@@ -45,18 +45,27 @@ For more graph fun, here's a scatter plot of word lengths as a function of year.
 
 Actually, I won't mind that Wordpress isn't yet self aware ('ello Skynet) and still sends trackbacks and pings (whatever they are) to me when I link to myself. Seriously, you _don't actually need to have a self-aware artificial intelligence in order to learn how to not spam me with emails when I'm quite probably as in super definitely aware of its existence_. But anyway, I guess I'll stomach the lurching pain of a thousand emails (I'm using hyperbole here, in case your rudimentary artificial intelligence algorithms can't quite distinguish them, but I'm also pretty sure your algorithms wouldn't be able to handle n-th degrees of meta, so this excruciatingly useless parenthetical wouldn't be much other than that: excruciatingly useless) and post the last part of the list here.
 
-`
-1340133957.0 , 2012-06-19 19:25:57 , 1178 [http://antimatter15.com/wp/2012/06/pinball/](http://antimatter15.com/wp/2012/06/pinball/)
-1333025085.0 , 2012-03-29 12:44:45 , 1302 [http://antimatter15.com/wp/2012/03/musicalpha-v2-0/](http://antimatter15.com/wp/2012/03/musicalpha-v2-0/)
-1293394934.0 , 2010-12-26 20:22:14 , 1409 [http://antimatter15.com/wp/2010/12/drag2up-v2-drag-and-drop-uploading-for-all-sites/](http://antimatter15.com/wp/2010/12/drag2up-v2-drag-and-drop-uploading-for-all-sites/)
-1317686582.0 , 2011-10-04 00:03:02 , 1565 [Haven't actually published this yet, hmm]
-1341591648.0 , 2012-07-06 16:20:48 , 2117 [http://antimatter15.com/wp/2012/07/cloudfall-a-text-editor/](http://antimatter15.com/wp/2012/07/cloudfall-a-text-editor/)
-1307064165.0 , 2011-06-03 01:22:45 , 2180 [http://antimatter15.com/wp/2011/06/why-the-chrome-web-store-is-bad-for-the-web/](http://antimatter15.com/wp/2011/06/why-the-chrome-web-store-is-bad-for-the-web/)
-1277922545.0 , 2010-06-30 18:29:05 , 2319 [http://antimatter15.com/wp/2010/06/wave-embed-api/](http://antimatter15.com/wp/2010/06/wave-embed-api/)
-1294958307.0 , 2011-01-13 22:38:27 , 2762 [http://antimatter15.com/wp/2011/01/the-ambiguity-of-open-and-vp8-vs-h-264/](http://antimatter15.com/wp/2011/01/the-ambiguity-of-open-and-vp8-vs-h-264/)
-1308832860.0 , 2011-06-23 12:41:00 , 2872 [http://antimatter15.com/wp/2011/06/samsung-series-5-chromebook/](http://antimatter15.com/wp/2011/06/samsung-series-5-chromebook/)
-1305426252.0 , 2011-05-15 02:24:12 , 3724 [http://antimatter15.com/wp/2011/05/uploading-mp3s-to-google-music-beta-from-linux-chrome-os-win-and-mac/](http://antimatter15.com/wp/2011/05/uploading-mp3s-to-google-music-beta-from-linux-chrome-os-win-and-mac/)
-`
+
+    1340133957.0 , 2012-06-19 19:25:57 , 1178 [http://antimatter15.com/wp/2012/06/pinball/](http://antimatter15.com/wp/2012/06/pinball/)
+
+    1333025085.0 , 2012-03-29 12:44:45 , 1302 [http://antimatter15.com/wp/2012/03/musicalpha-v2-0/](http://antimatter15.com/wp/2012/03/musicalpha-v2-0/)
+
+    1293394934.0 , 2010-12-26 20:22:14 , 1409 [http://antimatter15.com/wp/2010/12/drag2up-v2-drag-and-drop-uploading-for-all-sites/](http://antimatter15.com/wp/2010/12/drag2up-v2-drag-and-drop-uploading-for-all-sites/)
+
+    1317686582.0 , 2011-10-04 00:03:02 , 1565 [Haven't actually published this yet, hmm]
+
+    1341591648.0 , 2012-07-06 16:20:48 , 2117 [http://antimatter15.com/wp/2012/07/cloudfall-a-text-editor/](http://antimatter15.com/wp/2012/07/cloudfall-a-text-editor/)
+
+    1307064165.0 , 2011-06-03 01:22:45 , 2180 [http://antimatter15.com/wp/2011/06/why-the-chrome-web-store-is-bad-for-the-web/](http://antimatter15.com/wp/2011/06/why-the-chrome-web-store-is-bad-for-the-web/)
+
+    1277922545.0 , 2010-06-30 18:29:05 , 2319 [http://antimatter15.com/wp/2010/06/wave-embed-api/](http://antimatter15.com/wp/2010/06/wave-embed-api/)
+
+    1294958307.0 , 2011-01-13 22:38:27 , 2762 [http://antimatter15.com/wp/2011/01/the-ambiguity-of-open-and-vp8-vs-h-264/](http://antimatter15.com/wp/2011/01/the-ambiguity-of-open-and-vp8-vs-h-264/)
+
+    1308832860.0 , 2011-06-23 12:41:00 , 2872 [http://antimatter15.com/wp/2011/06/samsung-series-5-chromebook/](http://antimatter15.com/wp/2011/06/samsung-series-5-chromebook/)
+
+    1305426252.0 , 2011-05-15 02:24:12 , 3724 [http://antimatter15.com/wp/2011/05/uploading-mp3s-to-google-music-beta-from-linux-chrome-os-win-and-mac/](http://antimatter15.com/wp/2011/05/uploading-mp3s-to-google-music-beta-from-linux-chrome-os-win-and-mac/)
+
 
 That list was compiled by the command `cat blogtimes.csv | sort -t',' -k3n | tail`, and that's quite an accomplishment because I had to look up the arguments for the `sort` command in order to figure that out. Of course, `blogtimes.csv` is the output of my magical six line python script (which uses BeautifulSoup to extract all the `wp:post_date`s).
 
