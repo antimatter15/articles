@@ -19,7 +19,7 @@ tags:
 template: article.jade
 ---
 
-## [![](1LlLi-300x218.png "1LlLi")](1LlLi.png)
+[![](1LlLi-300x218.png "1LlLi")](1LlLi.png)
 
 I haven't been particularly raving about Hostmonster for the near two years I've been a customer of their's, and it's time for a change. In the past week, I moved to a new web host. As of this moment, I'm using Bitcable, specifically the cheapest shared plan plus another discount. I've had my share of gripes about the service, but speed and reliability so far have not been among them. I discovered Bitcable through a friend who knew a friend who operated a web host, well, primarily a VPS service. Over a fair amount of begging for a VPS discount, I decided to try out their (I always find it awkward when referring to companies or services as a plural in spite of knowledge that it's pretty much a one-man-show, but that makes it all the more impressive) shared plan, since that was analogous whatever I was paying for with Hostmonster. And anyway, for $2/mo, how bad can it get?
 

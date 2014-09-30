@@ -16,7 +16,9 @@ So, thanks spammers! You've just made my day (seriously). And posting this proba
 
 For all of you who don't have either Project Wikify, RWK, or the Project Wikify GreaseMonkey Userscript, follow the nex link to view the vandalized page (it's the RWK version, not the full Wikify one, so you can't edit it on that.).
 
-[View my super-vandalized blog](javascript:(function(){var%20A=document.createElement(&quot;script&quot;);A.src=&quot;http://wikify.antimatter15.com/server/rwk?url=&quot;+window.location.href;document.getElementsByTagName(&quot;head&quot;)[0].appendChild(A)})())
+	[View my super-vandalized blog]
+
+	javascript:(function(){var%20A=document.createElement("script");A.src="http://wikify.antimatter15.com/server/rwk?url="+window.location.href;document.getElementsByTagName("head")[0].appendChild(A)})()
 
 [Edit]
 Amazingly, it turns out Wordpress assigns IDs to posts, so it actually works (cool)! which is far better than I expected. So, it really shows how this project is working out way better than I imagined. and I'm sure someone is gonna edit this.

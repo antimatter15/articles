@@ -38,14 +38,14 @@ Extract desktop2 to your Apache server, start Windows Calculator (or another app
 
 To be able to control the app, you have to set it to your network ip (not localhost) on a VM or a different computer. and configure sample.js at line 191.
 
-proxy: "gdat.php?url=",
-updateurl : "[http://localhost:12345](http://localhost:12345/)",
-baseurl : "[http://localhost:12345/base](http://localhost:12345/base)",
-showimg : false,
-uinterval: 1000,
-updater: null,
-xoffset: -8,
-yoffset: -28,
+    proxy: "gdat.php?url=",
+    updateurl : "[http://localhost:12345](http://localhost:12345/)",
+    baseurl : "[http://localhost:12345/base](http://localhost:12345/base)",
+    showimg : false,
+    uinterval: 1000,
+    updater: null,
+    xoffset: -8,
+    yoffset: -28,
 
 change localhost to the server's IP. And tick "Control Desktop"
 
