@@ -19,40 +19,46 @@ To review the old post, this is how I think Chrome OS might work. All user facin
 There will be a unified and consistent way for the user to voluntarily grant privledges to a web site that requests it. It won't be a catch-all i-totally-trust-this-app-to-every-bit-of-data-on-my-HDD sort of system that most operating systems use. It will be very fine grained, you can grant access to XHRs to a certain domain and huge warnings if the site requires access to the wildcard *. The privledges can extend from just accessing the notification API, cross domain XHR, geolocation, and **communicating with other tabs**. Communication with other tabs should be dome something like cross domain XHR, by allowing the user to grant a tab access to a certain domain/url. I would prefer the permissions dialog to be something less of a modal window that is employed by Gears or the little thing that pops up on the top for Firefox, and more of a icon that subtly appears somewhere that the user can click voluntarily. I think a UAC type stop-what-youre-doing-to-show-a-scary-message dialog is horrible and makes the user incapable of deciding intelligently. If there were a button which would make a box filled with checkboxes and a green/red gradient safety bar with messages, and educating the user that he or she really **does not have to give the site permissions**).
 
 A typical application such as a mail notifier would be as follows
-`<!doctype html>
-<html>
-<head><script src="jquery.js"></script></head><body>
-<script>
-if(navigator.requestPermission){
-navigator.requestPermission("xhr","http://site.com/api.json")
-navigator.requestPermission("notify")
-}
-setInterval(function(){
-if(navigator.hasPermission && navigator.hasPermission("xhr","http://site.com/api.json" && navigator.hasPermission("notify")){
-$("#status").html("YAYNESS! You granted Awesomeness!").css("background-color","green")
-$.ajax("http://site.com/api.json", {user: $("#userid").val(), pass: $("#pass").val()}, function(data){
-$.each(data,function(message){
-notify(message.summary)
-})
-})
-}else{
-$("#status").html("no permissions!")
-},1000);
-</script>
-<div id="status" style="background-color: red">No Permissions, please give me some super-powers?</div>
-<input id="userid" type="text" value="USERNAME" />
-<input id="pass" type="password" value="PASSWORD" />
 
-# Super Insanely Awesome Notifier!
+	<!doctype html>
+	<html>
+		<head>
+			<script src="jquery.js"></script>
+		</head>
+		<body>
+			<script>
+				if(navigator.requestPermission){
+					navigator.requestPermission("xhr","http://site.com/api.json")
+					navigator.requestPermission("notify")
+				}
+				setInterval(function(){
+					if(navigator.hasPermission && navigator.hasPermission("xhr","http://site.com/api.json" && navigator.hasPermission("notify")){
+						$("#status").html("YAYNESS! You granted Awesomeness!").css("background-color","green")
+						$.ajax("http://site.com/api.json", {user: $("#userid").val(), pass: $("#pass").val()}, function(data){
+							$.each(data,function(message){
+								notify(message.summary)
+							})
+						})
+					}else{
+						$("#status").html("no permissions!")
+					}
+				},1000);
+			</script>
+			<div id="status" style="background-color: red">No Permissions, please give me some super-powers?</div>
+			<input id="userid" type="text" value="USERNAME" />
+			<input id="pass" type="password" value="PASSWORD" />
 
-This is a super awesome notifier, if this doesnt work then you are an idiot or
-the internet isnt in the future yet. Here is where the about stuff and other stuff
-and stuffs that are stuffs can be put in! And if its not in the future, we all know
-the easiest way out is to blame microsoft for all our problems and say that at
-least google tried fixing our problems but it was all microsoft's fault.
+			# Super Insanely Awesome Notifier!
 
-</body>
-<html>`
+			This is a super awesome notifier, if this doesnt work then you are an idiot or
+			the internet isnt in the future yet. Here is where the about stuff and other stuff
+			and stuffs that are stuffs can be put in! And if its not in the future, we all know
+			the easiest way out is to blame microsoft for all our problems and say that at
+			least google tried fixing our problems but it was all microsoft's fault.
+
+		</body>
+	<html>
+
 The great thing about the thing above is that it gracefully degrades into a functionless web page if its not running in my imaginary super browser OS of the future. It's quite easy to make and requrires no API documentation (or at least for me since there's only 2 API calls and I just totally made them up). It's similar to the Jetpack and Chrome extensions idea in which the developer has little to learn for making an extension, but lowers the barrier even more: There's _nothing_ to learn. Whats above is just a _standard html5 web page with jQuery_. The only thing different is the hasPermission and requestPermission functions which don't exist so I made them up. It's not that it has anythign different, its just that the developer is thinking of the web page as a background process instead of _thinking_ of it as static content.
 
 It's the same idea is Google Wave, it could be a Wiki, IM, or Email, all depending on how you _think_ about it.

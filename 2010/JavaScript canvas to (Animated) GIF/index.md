@@ -19,7 +19,7 @@ template: article.jade
 
 ![This is the raw canvas element saved as a non-animated PNG](raw_canvas.png)
 
-I've [tried this before](2009/08/webworkers-canvas-glif-gifencoder-client-side-animated-gif-generation/) but it didn't work. &lt;canvas&gt; can't do toDataURL('image/gif'), and the primitive GLIF library couldn't do much so I never had the opportunity to test my gif-merging code that I had. But I'm at it again, this time, porting it from the AS3GIF library, an awesomely comprehensive bitmap to binary gif encoder that even supports LZW compression (and the patent has luckily expired. Yay!). AS3Gif is supposed to "play and encode animated GIFs", but since web pages can usually natively play GIFs fine, it's only a port of the GIFEncoder portions of the library. And it works really well. The rest of this post is copied from the[ Github readme](http://github.com/antimatter15/jsgif). Interesting how the w2_embed/anonybot embed post was a blog post turned into readme, this is a readme turned into blogpost. I'll start with a link to the Github repo anyway:
+I've [tried this before](2009/08/webworkers-canvas-glif-gifencoder-client-side-animated-gif-generation/) but it didn't work. `<canvas>` can't do `toDataURL('image/gif')`, and the primitive GLIF library couldn't do much so I never had the opportunity to test my gif-merging code that I had. But I'm at it again, this time, porting it from the AS3GIF library, an awesomely comprehensive bitmap to binary gif encoder that even supports LZW compression (and the patent has luckily expired. Yay!). AS3Gif is supposed to "play and encode animated GIFs", but since web pages can usually natively play GIFs fine, it's only a port of the GIFEncoder portions of the library. And it works really well. The rest of this post is copied from the[ Github readme](http://github.com/antimatter15/jsgif). Interesting how the w2_embed/anonybot embed post was a blog post turned into readme, this is a readme turned into blogpost. I'll start with a link to the Github repo anyway:
 
 [http://github.com/antimatter15/jsgif](http://github.com/antimatter15/jsgif)
 
@@ -31,24 +31,48 @@ But there are some differences so I'll cover it here anyway.![This is the GIF wh
 
 You first need to include the JS files. It's probably best if you include it in this order, but it shouldnt' matter too much.
 
-    &lt;script type="text/javascript" src="LZWEncoder.js"&gt;&lt;/script&gt; &lt;script type="text/javascript" src="NeuQuant.js"&gt;&lt;/script&gt; &lt;script type="text/javascript" src="GIFEncoder.js"&gt;&lt;/script&gt; `</pre>
-    If you want to render the gif through an inline `&lt;img&gt;` tag or try to save to disk or send to server or anything that requires
-    conversion into a non-binary string form, you should probably include `b64.js` too.
-    <pre>`&lt;script type="text/javascript" src="b64.js"&gt;&lt;/script&gt; `</pre>
-    Simple enough right? Now to convert stuff to GIF, you need to have a working or at least some imageData-esque array.
-    <pre>`&lt;canvas id="bitmap"&gt;&lt;/canvas&gt; &lt;script&gt; var canvas = document.getElementById('bitmap'); var context = canvas.getContext('2d'); context.fillStyle = 'rgb(255,255,255)'; context.fillRect(0,0,canvas.width, canvas.height); //GIF can't do transparent so do white context.fillStyle = "rgb(200,0,0)"; context.fillRect (10, 10, 75, 50); //draw a little red box `</pre>
-    Now we need to init the GIFEncoder.
-    <pre>` var encoder = new GIFEncoder(); `</pre>
-    _If_ you are making an animated gif, you need to add the following
-    <pre>` encoder.setRepeat(0); //0 -&gt; loop forever //1+ -&gt; loop n times then stop encoder.setDelay(500); //go to next frame every n milliseconds `</pre>
-    Now, you need to tell the magical thing that you're gonna start inserting frames (even if it's only one).
-    <pre>` encoder.start(); `</pre>
-    And for the part that took the longest to port: adding a real frame.
-    <pre>` encoder.addFrame(context); `</pre>
-    In the GIFEncoder version, it accepts a Bitmap. Well, that doesn't exist in Javascript (natively, anyway) so instead, I use what I feel is a decent analogue: the canvas context. However, if you're in a situation where you don't have a real `&lt;canvas&gt;` element. That's _okay_. You can set the second parameter to true and pass a imageData.data-esque array as your first argument. So in other words, you can do `encoder.addFrame(fake_imageData, true) `as an alternative. However, you _must_ do an `encoder.setSize(width, height);` before you do any of the addFrames if you pass a imageData.data-like array. If you pass a canvas context, then that's all okay, because it will automagically do a setSize with the canvas width/height stuff.
+    <script type="text/javascript" src="LZWEncoder.js"></script>
+    <script type="text/javascript" src="NeuQuant.js"></script> 
+    <script type="text/javascript" src="GIFEncoder.js"></script>
 
-    Now the last part is to finalize the animation and get it for display.
-    <pre>` encoder.finish(); var binary_gif = encoder.stream().getData() //notice this is different from the as3gif package! var data_url = 'data:image/gif;base64,'+encode64(binary_gif); 
+If you want to render the gif through an inline `<img>` tag or try to save to disk or send to server or anything that requires conversion into a non-binary string form, you should probably include `b64.js` too.
+
+    <script type="text/javascript" src="b64.js"></script>
+
+Simple enough right? Now to convert stuff to GIF, you need to have a working or at least some imageData-esque array.
+
+    <canvas id="bitmap"></canvas> 
+    <script> 
+      var canvas = document.getElementById('bitmap'); 
+      var context = canvas.getContext('2d'); 
+      context.fillStyle = 'rgb(255,255,255)'; 
+      context.fillRect(0,0,canvas.width, canvas.height); //GIF can't do transparent so do white 
+      context.fillStyle = "rgb(200,0,0)"; 
+      context.fillRect (10, 10, 75, 50); //draw a little red box
+
+Now we need to init the GIFEncoder.
+
+    var encoder = new GIFEncoder();
+
+_If_ you are making an animated gif, you need to add the following
+
+    encoder.setRepeat(0); //0 -> loop forever //1+ -> loop n times then stop 
+    encoder.setDelay(500); //go to next frame every n milliseconds
+
+Now, you need to tell the magical thing that you're gonna start inserting frames (even if it's only one).
+
+    encoder.start();
+
+And for the part that took the longest to port: adding a real frame.
+    encoder.addFrame(context);
+
+In the GIFEncoder version, it accepts a Bitmap. Well, that doesn't exist in Javascript (natively, anyway) so instead, I use what I feel is a decent analogue: the canvas context. However, if you're in a situation where you don't have a real `<canvas>` element. That's _okay_. You can set the second parameter to true and pass a imageData.data-esque array as your first argument. So in other words, you can do `encoder.addFrame(fake_imageData, true) `as an alternative. However, you _must_ do an `encoder.setSize(width, height);` before you do any of the addFrames if you pass a imageData.data-like array. If you pass a canvas context, then that's all okay, because it will automagically do a setSize with the canvas width/height stuff.
+
+Now the last part is to finalize the animation and get it for display.
+    
+    encoder.finish(); 
+    var binary_gif = encoder.stream().getData() //notice this is different from the as3gif package! 
+    var data_url = 'data:image/gif;base64,'+encode64(binary_gif); 
 
 ### Docs
 
