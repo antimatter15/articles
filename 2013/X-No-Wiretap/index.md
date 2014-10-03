@@ -45,11 +45,11 @@ In this case, the removal of encryption ensures that the government is able to p
 
 ## What about Identity Theft?
 
-> What if you set up a server to transparently capture the browser headers? Any malicious entity could then collect all the social security numbers and real identities of everyone who happened to stumble onto their websites and use the information to sign up for credit cards, create hazardous investments, threaten or blackmail loved ones, and masquerade as a citizen while doing terrorist activities!> 
-> 
-> There isn't any _real_ evidence that such sweeping surveillance will even substantially reduce the chances of events that are intrinsically outliers anyway. On the other hand, [identity theft is a real world issue](http://www.wired.com/threatlevel/2010/05/lifelock-identity-theft/) which affects millions of Americans on a daily basis- and these changes will only make our _real_ problems worse.> 
-> 
+> What if you set up a server to transparently capture the browser headers? Any malicious entity could then collect all the social security numbers and real identities of everyone who happened to stumble onto their websites and use the information to sign up for credit cards, create hazardous investments, threaten or blackmail loved ones, and masquerade as a citizen while doing terrorist activities!
+> There isn't any _real_ evidence that such sweeping surveillance will even substantially reduce the chances of events that are intrinsically outliers anyway. On the other hand, [identity theft is a real world issue](http://www.wired.com/threatlevel/2010/05/lifelock-identity-theft/) which affects millions of Americans on a daily basis- and these changes will only make our _real_ problems worse.
 > — _Short-Sighted Critic_
+
+
 Our government has to reconcile with the fact that the flow of information has radically shifted in the past few decades- all the previous paradigms of privacy, security and adversaries have been obsoleted. Understandably, they need to create infrastructure to tackle this next generation of attacks. This could mean highly orchestrated attacks being planned online, and the government is justified in trying to exercise every available option to avert the next cyber-9/11\. Our adversaries may have no limits to their capabilities, and so waiting for definitive evidence on the efficacy of counter-intelligence approaches is giving them an opportunity to plan their next attack.
 
 When what's at stake is the American way of life, it's easy to put aside things that don't really matter.
