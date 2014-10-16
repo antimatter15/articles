@@ -2,6 +2,8 @@
 title: Google Wave Gadget API "Flaws"
 author: admin
 date: 2009-08-12 6:38:36
+categories:
+  - Google Wave
 tags: 
   - flaws
   - google

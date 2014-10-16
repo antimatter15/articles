@@ -2,6 +2,8 @@
 title: vX Ajax Function
 author: admin
 date: 2008-10-07 9:01:03
+categories:
+  - vX JS
 tags: 
   - ajax
   - fast

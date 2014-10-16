@@ -2,6 +2,8 @@
 title: Getting WebGL/OpenGL 2 to work on a ATI 1950X 
 author: admin
 date: 2010-10-31 1:20:15
+categories:
+  - 3D
 tags: 
   - graphics
   - graphics card

@@ -2,6 +2,9 @@
 title: Digital Sculpting with Three.JS
 author: admin
 date: 2010-11-23 9:51:33
+categories:
+  - 3D
+  - Digital Sculpting
 tags: 
   - 3D
   - art

@@ -2,6 +2,8 @@
 title: What new features do you want?
 author: admin
 date: 2008-01-27 6:07:45
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

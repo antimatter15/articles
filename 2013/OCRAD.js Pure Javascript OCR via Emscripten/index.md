@@ -2,6 +2,8 @@
 title: OCRAD.js Pure Javascript OCR via Emscripten
 author: admin
 date: 2013-12-31 11:59:57
+categories:
+  - Uncategorized
 tags: 
   - character
   - computer vision

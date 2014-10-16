@@ -2,6 +2,8 @@
 title: Ajax Animator 0.2 Beta *almost* RC1
 author: admin
 date: 2008-08-02 9:59:39
+categories:
+  - Ajax Animator
 tags: 
   - features
   - rc1

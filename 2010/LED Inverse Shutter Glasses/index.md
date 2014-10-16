@@ -2,6 +2,9 @@
 title: LED Inverse Shutter Glasses
 author: admin
 date: 2010-01-03 4:53:25
+categories:
+  - 3D
+  - Additive 3D Glasses
 tags: 
   - 3D
   - glasses

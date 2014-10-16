@@ -2,6 +2,8 @@
 title: New Alpha URL
 author: admin
 date: 2008-04-24 7:16:29
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

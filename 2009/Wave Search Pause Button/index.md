@@ -2,6 +2,8 @@
 title: Wave Search Pause Button
 author: admin
 date: 2009-11-06 10:06:07
+categories:
+  - Google Wave
 tags: 
   - wave
 template: article.jade

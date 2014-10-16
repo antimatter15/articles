@@ -2,6 +2,8 @@
 title: Ajax Animator
 author: admin
 date: 2007-05-20 9:21:23
+categories:
+  - Ajax Animator
 tags: 
   - adobe
   - ajax animator

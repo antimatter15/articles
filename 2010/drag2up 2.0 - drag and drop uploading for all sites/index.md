@@ -2,6 +2,8 @@
 title: drag2up 2.0 - drag and drop uploading for all sites
 author: admin
 date: 2010-12-26 3:22:14
+categories:
+  - drag2up
 tags: 
   - app engine
   - chemical servers

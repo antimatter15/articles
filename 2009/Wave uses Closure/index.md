@@ -2,6 +2,8 @@
 title: Wave uses Closure
 author: admin
 date: 2009-11-08 5:27:38
+categories:
+  - Google Wave
 tags: 
   - closure
   - magic

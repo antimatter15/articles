@@ -2,6 +2,9 @@
 title: VectorEditor
 author: admin
 date: 2008-08-10 8:13:18
+categories:
+  - Ajax Animator
+  - VectorEditor
 tags: 
   - experiment
   - raphael

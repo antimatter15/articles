@@ -2,6 +2,8 @@
 title: Porting Ajax Animator to Titanium
 author: admin
 date: 2008-12-17 7:27:04
+categories:
+  - Ajax Animator
 tags: 
   - AIR
   - SVG

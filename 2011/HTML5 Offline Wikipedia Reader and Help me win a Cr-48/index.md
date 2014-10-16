@@ -2,6 +2,9 @@
 title: HTML5 Offline Wikipedia Reader and Help me win a Cr-48
 author: admin
 date: 2011-02-04 1:21:03
+categories:
+  - Chrome Extensions
+  - Offline Wiki
 tags: 
   - bunnies
   - chrome

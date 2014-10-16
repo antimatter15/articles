@@ -2,6 +2,8 @@
 title: Automatically Scanning on Lid Close with Arduino
 author: admin
 date: 2013-05-30 8:27:28
+categories:
+  - Arduino + Scanner
 tags: 
   - aluminum
   - arduino

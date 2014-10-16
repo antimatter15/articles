@@ -2,6 +2,8 @@
 title: Skipping 1.6 
 author: admin
 date: 2008-04-13 7:12:48
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

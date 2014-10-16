@@ -2,6 +2,8 @@
 title: Tweening Rewrite
 author: admin
 date: 2008-07-10 2:21:04
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

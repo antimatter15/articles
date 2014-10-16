@@ -2,6 +2,9 @@
 title: 1k JS 3d Function Plotter
 author: admin
 date: 2010-08-06 1:38:08
+categories:
+  - 3D
+  - Function Plotter
 tags: 
   - 3D
   - boring

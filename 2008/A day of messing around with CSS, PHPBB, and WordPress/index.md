@@ -2,6 +2,8 @@
 title: A day of messing around with CSS, PHPBB, and WordPress
 author: admin
 date: 2008-05-08 10:00:51
+categories:
+  - Meta
 tags: 
 
 template: article.jade

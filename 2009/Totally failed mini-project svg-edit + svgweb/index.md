@@ -2,6 +2,8 @@
 title: Totally failed mini-project svg-edit + svgweb
 author: admin
 date: 2009-08-24 7:01:05
+categories:
+  - Ajax Animator
 tags: 
   - google
   - svg-edit

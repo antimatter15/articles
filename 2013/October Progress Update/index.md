@@ -2,6 +2,8 @@
 title: October Progress Update
 author: admin
 date: 2013-10-31 6:45:14
+categories:
+  - Meta
 tags: 
   - 2009
   - aluminium

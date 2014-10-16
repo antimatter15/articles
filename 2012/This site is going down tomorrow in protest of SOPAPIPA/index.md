@@ -2,6 +2,8 @@
 title: This site is going down tomorrow in protest of SOPA/PIPA
 author: admin
 date: 2012-01-17 9:48:39
+categories:
+  - Meta
 tags: 
   - ayn rand
   - batman

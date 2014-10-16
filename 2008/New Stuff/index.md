@@ -2,6 +2,8 @@
 title: New Stuff
 author: admin
 date: 2008-06-29 9:22:02
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

@@ -2,6 +2,8 @@
 title: Format of new Ajax Animator Interactive Tutorials
 author: admin
 date: 2007-11-23 10:27:42
+categories:
+  - Ajax Animator
 tags: 
   - design
   - discover

@@ -2,6 +2,8 @@
 title: vX JS Library
 author: admin
 date: 2008-10-12 6:22:22
+categories:
+  - vX JS
 tags: 
   - ajax
   - fast

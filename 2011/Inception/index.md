@@ -2,6 +2,8 @@
 title: Inception
 author: admin
 date: 2011-07-10 11:31:42
+categories:
+  - Fun
 tags: 
   - christopher nolan
   - flood

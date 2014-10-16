@@ -2,6 +2,8 @@
 title: Ajax Animator 0.20 Beta RC1 Released
 author: admin
 date: 2008-08-03 8:43:39
+categories:
+  - Ajax Animator
 tags: 
   - beta
   - insane

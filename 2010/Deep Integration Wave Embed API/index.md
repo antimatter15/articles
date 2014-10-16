@@ -2,6 +2,9 @@
 title: Deep Integration Wave Embed API
 author: admin
 date: 2010-06-30 2:29:05
+categories:
+  - Deep Comment Integration
+  - Google Wave
 tags: 
   - api
   - embed

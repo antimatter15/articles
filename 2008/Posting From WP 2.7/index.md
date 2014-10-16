@@ -2,6 +2,8 @@
 title: Posting From WP 2.7
 author: admin
 date: 2008-12-11 8:17:00
+categories:
+  - Meta
 tags: 
   - wordpress
 template: article.jade

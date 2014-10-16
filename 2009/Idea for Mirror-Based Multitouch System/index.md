@@ -2,6 +2,8 @@
 title: Idea for Mirror-Based Multitouch System
 author: admin
 date: 2009-03-21 12:06:56
+categories:
+  - MirrorTouch
 tags: 
   - light
   - mirror

@@ -2,6 +2,9 @@
 title: MusicAlpha v2.0
 author: admin
 date: 2012-03-29 8:44:45
+categories:
+  - Chrome Extensions
+  - MusicAlpha
 tags: 
   - google
   - google music

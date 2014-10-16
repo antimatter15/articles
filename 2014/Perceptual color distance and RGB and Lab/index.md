@@ -2,6 +2,8 @@
 title: Perceptual color distance and RGB and L*a*b
 author: admin
 date: 2014-05-31 3:35:01
+categories:
+  - Color
 tags: 
   - cie
   - ciesmic

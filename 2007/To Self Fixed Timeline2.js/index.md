@@ -2,6 +2,8 @@
 title: To Self Fixed Timeline2.js
 author: admin
 date: 2007-11-12 10:27:15
+categories:
+  - Ajax Animator
 tags: 
   - fixed
   - javascript

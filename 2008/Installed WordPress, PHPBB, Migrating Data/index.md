@@ -2,6 +2,8 @@
 title: Installed WordPress, PHPBB, Migrating Data
 author: admin
 date: 2008-05-07 9:35:24
+categories:
+  - Meta
 tags: 
 
 template: article.jade

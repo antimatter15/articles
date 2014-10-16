@@ -2,6 +2,8 @@
 title: Javascript Templating Engine
 author: admin
 date: 2010-07-20 8:42:44
+categories:
+  - Uncategorized
 tags: 
 
 template: article.jade

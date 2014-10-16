@@ -2,6 +2,9 @@
 title: Ajax Animator Video Demo
 author: admin
 date: 2009-09-24 4:39:34
+categories:
+  - Ajax Animator
+  - Google Wave
 tags: 
   - ajax animator
   - screencast

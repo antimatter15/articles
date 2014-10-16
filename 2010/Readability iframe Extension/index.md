@@ -2,6 +2,8 @@
 title: Readability iframe Extension
 author: admin
 date: 2010-09-19 9:40:43
+categories:
+  - Chrome Extensions
 tags: 
   - chrome
   - content script

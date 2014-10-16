@@ -2,6 +2,8 @@
 title: New File Format
 author: admin
 date: 2007-11-17 3:01:56
+categories:
+  - Ajax Animator
 tags: 
   - array
   - ax

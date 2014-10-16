@@ -2,6 +2,8 @@
 title: MIT
 author: admin
 date: 2013-01-15 6:59:58
+categories:
+  - Education
 tags: 
   - anachronistic
   - Massachusetts

@@ -2,6 +2,8 @@
 title: New Host Bitcable
 author: admin
 date: 2012-09-30 11:23:00
+categories:
+  - Meta
 tags: 
   - bitcable
   - downtime

@@ -2,6 +2,9 @@
 title: Scroll Bar Improvements
 author: admin
 date: 2009-09-18 10:40:08
+categories:
+  - Design
+  - Scroll Bar
 tags: 
   - omgoogle
 template: article.jade

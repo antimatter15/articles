@@ -2,6 +2,8 @@
 title: Project "Philosophy"
 author: admin
 date: 2008-04-09 7:11:44
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

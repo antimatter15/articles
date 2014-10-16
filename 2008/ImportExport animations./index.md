@@ -2,6 +2,8 @@
 title: Import/Export animations.
 author: admin
 date: 2008-06-29 9:21:23
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

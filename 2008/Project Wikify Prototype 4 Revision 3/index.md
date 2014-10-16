@@ -2,6 +2,8 @@
 title: Project Wikify Prototype 4 Revision 3
 author: admin
 date: 2008-09-08 4:58:27
+categories:
+  - Project Wikify
 tags: 
   - update
   - wikify

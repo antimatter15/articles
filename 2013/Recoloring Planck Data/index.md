@@ -2,6 +2,8 @@
 title: Recoloring Planck Data
 author: admin
 date: 2013-04-30 9:21:20
+categories:
+  - Planck&#x2F;WMAP
 tags: 
   - age
   - background

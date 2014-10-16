@@ -2,6 +2,9 @@
 title: insanely simple anti-phishing system
 author: admin
 date: 2010-11-12 6:48:32
+categories:
+  - Anti-Phishing System
+  - Security
 tags: 
   - identicons
   - login

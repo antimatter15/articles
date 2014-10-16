@@ -2,6 +2,8 @@
 title: Images/Text Again
 author: admin
 date: 2008-06-15 5:10:14
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

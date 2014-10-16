@@ -2,6 +2,9 @@
 title: Wave2 A higher level Wave Gadget State API
 author: admin
 date: 2009-08-17 5:26:20
+categories:
+  - Ajax Animator
+  - Other
 tags: 
   - api
   - gadget

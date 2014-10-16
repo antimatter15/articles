@@ -2,6 +2,8 @@
 title: Google Suggest + Venn Diagrams
 author: admin
 date: 2010-10-24 7:37:54
+categories:
+  - Google Suggest Venn Diagrams
 tags: 
   - google
   - humor

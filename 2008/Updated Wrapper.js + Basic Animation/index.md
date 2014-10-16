@@ -2,6 +2,9 @@
 title: Updated Wrapper.js + Basic Animation
 author: admin
 date: 2008-06-17 5:05:23
+categories:
+  - Ajax Animator
+  - OnlyPaths
 tags: 
 
 template: article.jade

@@ -2,6 +2,8 @@
 title: Google Wave Data API supports all Robots V2 Operations
 author: admin
 date: 2010-05-26 6:23:27
+categories:
+  - Google Wave
 tags: 
 
 template: article.jade

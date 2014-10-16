@@ -2,6 +2,8 @@
 title: I Just Had A Breakthrough!
 author: admin
 date: 2007-12-20 6:00:50
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

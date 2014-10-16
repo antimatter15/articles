@@ -2,6 +2,9 @@
 title: Changed Email Sender
 author: admin
 date: 2008-07-11 10:09:02
+categories:
+  - Ajax Animator
+  - Meta
 tags: 
 
 template: article.jade

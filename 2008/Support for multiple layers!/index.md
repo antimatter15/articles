@@ -2,6 +2,8 @@
 title: Support for multiple layers!
 author: admin
 date: 2008-06-28 4:47:06
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

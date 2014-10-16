@@ -2,6 +2,9 @@
 title: Google Drive + Cloud Save
 author: admin
 date: 2011-04-29 1:48:01
+categories:
+  - Chrome Extensions
+  - Cloud Save
 tags: 
   - cloud save
   - download

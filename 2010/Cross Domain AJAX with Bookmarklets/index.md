@@ -2,6 +2,8 @@
 title: Cross Domain AJAX with Bookmarklets
 author: admin
 date: 2010-02-03 9:10:52
+categories:
+  - Uncategorized
 tags: 
 
 template: article.jade

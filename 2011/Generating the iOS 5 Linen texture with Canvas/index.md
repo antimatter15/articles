@@ -2,6 +2,8 @@
 title: Generating the iOS 5 Linen texture with Canvas
 author: admin
 date: 2011-08-19 3:26:51
+categories:
+  - Design
 tags: 
   - apple
   - canvas

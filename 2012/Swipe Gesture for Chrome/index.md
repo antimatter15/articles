@@ -2,6 +2,10 @@
 title: Swipe Gesture for Chrome
 author: admin
 date: 2012-08-13 11:23:18
+categories:
+  - Chrome Extensions
+  - Design
+  - Swipe Gesture
 tags: 
   - apple
   - awesome

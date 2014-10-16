@@ -2,6 +2,8 @@
 title: Standalone Animation Player
 author: admin
 date: 2008-07-16 8:31:57
+categories:
+  - Ajax Animator
 tags: 
   - animation
   - player

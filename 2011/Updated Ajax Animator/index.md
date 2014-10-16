@@ -2,6 +2,8 @@
 title: Updated Ajax Animator
 author: admin
 date: 2011-12-31 8:39:43
+categories:
+  - Ajax Animator
 tags: 
   - ajax animator
   - features

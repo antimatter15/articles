@@ -2,6 +2,8 @@
 title: New MirrorTouch Algorithm
 author: admin
 date: 2009-06-27 8:25:47
+categories:
+  - MirrorTouch
 tags: 
   - .net
   - algorithm

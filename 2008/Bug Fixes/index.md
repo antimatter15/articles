@@ -2,6 +2,8 @@
 title: Bug Fixes
 author: admin
 date: 2008-07-29 7:46:35
+categories:
+  - Ajax Animator
 tags: 
   - bugfix
   - firefox

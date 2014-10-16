@@ -2,6 +2,8 @@
 title: Done switching webhosts
 author: admin
 date: 2010-06-30 6:04:17
+categories:
+  - Meta
 tags: 
   - change
   - complete

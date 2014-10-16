@@ -2,6 +2,8 @@
 title: Wikifying the Internet
 author: admin
 date: 2008-08-29 1:24:21
+categories:
+  - Project Wikify
 tags: 
   - collaboration
   - parody

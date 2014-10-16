@@ -2,6 +2,8 @@
 title: MP3 Player
 author: admin
 date: 2011-03-26 8:12:45
+categories:
+  - MP3 Player
 tags: 
   - almost certainly
   - audio

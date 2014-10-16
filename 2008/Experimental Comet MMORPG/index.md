@@ -2,6 +2,9 @@
 title: Experimental Comet MMORPG
 author: admin
 date: 2008-05-02 7:19:38
+categories:
+  - CometRPG
+  - Games
 tags: 
   - ajax
   - character

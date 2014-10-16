@@ -2,6 +2,8 @@
 title: More Technical Details on why IE Can't be supported
 author: admin
 date: 2007-12-21 1:00:06
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

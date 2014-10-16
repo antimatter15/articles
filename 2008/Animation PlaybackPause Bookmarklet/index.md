@@ -2,6 +2,8 @@
 title: Animation Playback/Pause Bookmarklet
 author: admin
 date: 2008-06-17 8:14:38
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

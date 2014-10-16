@@ -2,6 +2,8 @@
 title: Setting up a Wiki
 author: admin
 date: 2009-03-07 10:56:11
+categories:
+  - Meta
 tags: 
   - awesome
   - site

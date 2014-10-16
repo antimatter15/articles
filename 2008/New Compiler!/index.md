@@ -2,6 +2,8 @@
 title: New Compiler!
 author: admin
 date: 2008-04-23 7:15:57
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

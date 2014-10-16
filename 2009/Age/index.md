@@ -2,6 +2,8 @@
 title: Age
 author: admin
 date: 2009-03-07 10:44:08
+categories:
+  - Uncategorized
 tags: 
   - age
   - me

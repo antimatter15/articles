@@ -2,6 +2,8 @@
 title: Controlling A Native App from a Javascript Desktop
 author: admin
 date: 2008-08-29 1:13:37
+categories:
+  - VNC in Ext.JS Desktop
 tags: 
   - ajax
   - compute

@@ -2,6 +2,10 @@
 title: Surplus
 author: admin
 date: 2011-08-19 4:09:29
+categories:
+  - Chrome Extensions
+  - Google+
+  - Surplus
 tags: 
   - browser
   - chrome

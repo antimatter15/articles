@@ -2,6 +2,8 @@
 title: As you can see..
 author: admin
 date: 2008-05-07 7:22:25
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

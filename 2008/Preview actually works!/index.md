@@ -2,6 +2,8 @@
 title: Preview actually works!
 author: admin
 date: 2008-06-28 9:47:12
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

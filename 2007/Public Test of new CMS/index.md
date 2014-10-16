@@ -2,6 +2,8 @@
 title: Public Test of new CMS
 author: admin
 date: 2007-12-11 5:57:50
+categories:
+  - Meta
 tags: 
 
 template: article.jade

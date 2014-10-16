@@ -2,6 +2,8 @@
 title: Insert Frame
 author: admin
 date: 2008-06-16 7:10:38
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

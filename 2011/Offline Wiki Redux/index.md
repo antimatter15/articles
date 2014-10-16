@@ -2,6 +2,8 @@
 title: Offline Wiki Redux
 author: admin
 date: 2011-12-30 6:05:06
+categories:
+  - Offline Wiki
 tags: 
   - app
   - chrome

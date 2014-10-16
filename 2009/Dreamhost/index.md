@@ -2,6 +2,8 @@
 title: Dreamhost
 author: admin
 date: 2009-07-13 10:05:23
+categories:
+  - Meta
 tags: 
   - hosting
 template: article.jade

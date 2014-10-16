@@ -2,6 +2,9 @@
 title: MusicAlpha Upload to Google Music Beta from Linux and Chrome OS
 author: admin
 date: 2011-05-14 10:24:12
+categories:
+  - Chrome Extensions
+  - MusicAlpha
 tags: 
   - app
   - audio

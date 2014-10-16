@@ -2,6 +2,8 @@
 title: Auto Offline Manifest Generator Bookmarklet
 author: admin
 date: 2009-11-02 10:04:22
+categories:
+  - Uncategorized
 tags: 
 
 template: article.jade

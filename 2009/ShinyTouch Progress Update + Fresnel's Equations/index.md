@@ -2,6 +2,8 @@
 title: ShinyTouch Progress Update + Fresnel's Equations
 author: admin
 date: 2009-07-12 4:30:56
+categories:
+  - ShinyTouch
 tags: 
   - angle
   - diagrams

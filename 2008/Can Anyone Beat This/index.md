@@ -2,6 +2,8 @@
 title: Can Anyone Beat This?
 author: admin
 date: 2008-10-14 4:57:11
+categories:
+  - vX JS
 tags: 
   - ajax
   - function

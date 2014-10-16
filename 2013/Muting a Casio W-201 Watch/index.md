@@ -2,6 +2,8 @@
 title: Muting a Casio W-201 Watch
 author: admin
 date: 2013-09-25 11:33:36
+categories:
+  - Hardware
 tags: 
   - casio
   - clock

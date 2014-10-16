@@ -2,6 +2,8 @@
 title: More Information
 author: admin
 date: 2007-08-11 3:27:15
+categories:
+  - Ajax Animator
 tags: 
   - google code
   - information

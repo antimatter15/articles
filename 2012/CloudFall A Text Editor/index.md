@@ -2,6 +2,9 @@
 title: CloudFall A Text Editor
 author: admin
 date: 2012-07-06 12:20:48
+categories:
+  - Chrome Extensions
+  - CloudFall
 tags: 
   - ace
   - chrome

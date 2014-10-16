@@ -2,6 +2,8 @@
 title: Fail
 author: admin
 date: 2009-06-03 5:58:59
+categories:
+  - Uncategorized
 tags: 
 
 template: article.jade

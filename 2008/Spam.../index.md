@@ -2,6 +2,8 @@
 title: Spam...
 author: admin
 date: 2008-09-07 10:50:55
+categories:
+  - Meta
 tags: 
   - akismet
   - blog

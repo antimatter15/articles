@@ -2,6 +2,8 @@
 title: Massive file sharing networks?
 author: admin
 date: 2009-09-17 3:39:09
+categories:
+  - P2P
 tags: 
   - distributed
   - p2p

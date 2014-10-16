@@ -2,6 +2,8 @@
 title: Python Ports!
 author: admin
 date: 2009-04-12 10:09:12
+categories:
+  - MirrorTouch
 tags: 
   - linux
   - PIL

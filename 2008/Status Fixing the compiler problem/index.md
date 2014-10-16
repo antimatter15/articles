@@ -2,6 +2,9 @@
 title: Status Fixing the compiler problem
 author: admin
 date: 2008-06-07 1:14:35
+categories:
+  - Ajax Animator
+  - OnlyPaths
 tags: 
   - arrangement
   - compiler

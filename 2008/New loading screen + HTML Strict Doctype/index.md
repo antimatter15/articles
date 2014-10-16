@@ -2,6 +2,8 @@
 title: New loading screen + HTML Strict Doctype
 author: admin
 date: 2008-06-07 1:55:58
+categories:
+  - Ajax Animator
 tags: 
   - doctype
   - ext

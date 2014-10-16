@@ -2,6 +2,8 @@
 title: Wave Reader
 author: admin
 date: 2010-06-30 7:20:09
+categories:
+
 tags: 
 
 template: article.jade

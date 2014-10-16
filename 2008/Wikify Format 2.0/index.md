@@ -2,6 +2,9 @@
 title: Wikify Format 2.0
 author: admin
 date: 2008-12-20 5:45:10
+categories:
+  - Other
+  - Project Wikify
 tags: 
   - format
   - new

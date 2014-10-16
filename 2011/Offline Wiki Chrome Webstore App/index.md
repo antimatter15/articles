@@ -2,6 +2,8 @@
 title: Offline Wiki Chrome Webstore App
 author: admin
 date: 2011-04-23 4:17:15
+categories:
+  - Offline Wiki
 tags: 
   - apple
   - awesome

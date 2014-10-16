@@ -2,6 +2,8 @@
 title: Lossy Text Compression
 author: admin
 date: 2009-07-26 2:00:09
+categories:
+  - Uncategorized
 tags: 
 
 template: article.jade

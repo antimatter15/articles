@@ -2,6 +2,9 @@
 title: Wave Reader 4.6 - Insanely Fast Edition
 author: admin
 date: 2010-01-14 11:08:01
+categories:
+  - Google Wave
+  - Wave Reader
 tags: 
   - fast
   - google wave

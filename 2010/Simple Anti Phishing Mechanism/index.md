@@ -2,6 +2,9 @@
 title: Simple Anti Phishing Mechanism
 author: admin
 date: 2010-11-12 5:41:18
+categories:
+  - Anti-Phishing System
+  - Security
 tags: 
   - demo
   - javascript

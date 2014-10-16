@@ -2,6 +2,8 @@
 title: Ajax Distributed Computing
 author: admin
 date: 2007-10-07 5:17:14
+categories:
+  - Javascript Distributed Computing
 tags: 
 
 template: article.jade

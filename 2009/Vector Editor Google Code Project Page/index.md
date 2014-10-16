@@ -2,6 +2,8 @@
 title: Vector Editor Google Code Project Page
 author: admin
 date: 2009-07-22 8:59:56
+categories:
+  - VectorEditor
 tags: 
   - ajax animator
   - firefox

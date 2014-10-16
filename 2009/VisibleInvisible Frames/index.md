@@ -2,6 +2,8 @@
 title: Visible/Invisible Frames
 author: admin
 date: 2009-08-15 4:18:58
+categories:
+  - Ajax Animator
 tags: 
   - art
   - evil

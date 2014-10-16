@@ -2,6 +2,8 @@
 title: New Tweening Engine?
 author: admin
 date: 2008-07-09 1:39:25
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

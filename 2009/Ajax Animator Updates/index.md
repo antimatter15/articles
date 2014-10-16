@@ -2,6 +2,8 @@
 title: Ajax Animator Updates
 author: admin
 date: 2009-08-14 3:41:56
+categories:
+  - Ajax Animator
 tags: 
   - sad
   - year

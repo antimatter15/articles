@@ -2,6 +2,8 @@
 title: Why the Chrome Web Store is Bad for the Web.
 author: admin
 date: 2011-06-02 9:22:45
+categories:
+  - Chrome Extensions
 tags: 
   - apple
   - applications

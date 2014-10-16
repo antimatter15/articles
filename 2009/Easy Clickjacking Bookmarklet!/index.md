@@ -2,6 +2,9 @@
 title: Easy Clickjacking Bookmarklet!
 author: admin
 date: 2009-09-04 4:07:41
+categories:
+  - Clickjacking
+  - Security
 tags: 
   - clickjacking
   - i think the screenshot is broken

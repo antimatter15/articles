@@ -2,6 +2,8 @@
 title: Fixed Tween Editing
 author: admin
 date: 2008-06-26 7:04:48
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

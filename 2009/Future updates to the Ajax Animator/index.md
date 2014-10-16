@@ -2,6 +2,8 @@
 title: Future updates to the Ajax Animator
 author: admin
 date: 2009-04-12 10:05:31
+categories:
+  - Ajax Animator
 tags: 
   - actionscript
   - flash

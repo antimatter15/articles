@@ -2,6 +2,9 @@
 title: Cloud Save
 author: admin
 date: 2011-03-07 4:16:38
+categories:
+  - Chrome Extensions
+  - Cloud Save
 tags: 
   - browser
   - chrome

@@ -2,6 +2,8 @@
 title: Upcoming Changes
 author: admin
 date: 2012-08-18 1:16:52
+categories:
+  - Meta
 tags: 
   - backend
   - bitcable

@@ -2,6 +2,8 @@
 title: 3999 Spam
 author: admin
 date: 2008-12-20 11:02:34
+categories:
+  - Meta
 tags: 
   - spam
 template: article.jade

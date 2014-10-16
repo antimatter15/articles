@@ -2,6 +2,9 @@
 title: A Bright Coloured Fish Parsing ID3v2 Tags in Javascript (and ExtensionFM)
 author: admin
 date: 2010-07-10 2:34:31
+categories:
+  - MP3 ID3v2 Parser
+  - Multimedia Codecs
 tags: 
   - copyrightsucks
   - extensionfm

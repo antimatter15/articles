@@ -2,6 +2,8 @@
 title: I'm A Linux Idiot
 author: admin
 date: 2009-01-04 12:10:10
+categories:
+  - Meta
 tags: 
   - install
   - linux

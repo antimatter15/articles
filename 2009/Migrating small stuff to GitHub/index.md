@@ -2,6 +2,9 @@
 title: Migrating small stuff to GitHub
 author: admin
 date: 2009-09-03 7:46:58
+categories:
+  - Other
+  - vX JS
 tags: 
   - egotistical
   - git

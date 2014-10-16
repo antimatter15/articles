@@ -2,6 +2,9 @@
 title: Basic Shape Resizing in VectorEditor
 author: admin
 date: 2009-09-11 6:57:13
+categories:
+  - Ajax Animator
+  - VectorEditor
 tags: 
   - graphcis
   - jsvectoreditor

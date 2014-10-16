@@ -2,6 +2,9 @@
 title: Wave Syncing "Echo"
 author: admin
 date: 2009-09-15 4:39:17
+categories:
+  - Ajax Animator
+  - Google Wave
 tags: 
   - api
   - gadget

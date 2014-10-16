@@ -2,6 +2,8 @@
 title: November Progress Report
 author: admin
 date: 2013-11-30 11:36:09
+categories:
+  - Meta
 tags: 
   - november
   - progress

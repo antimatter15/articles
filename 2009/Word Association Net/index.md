@@ -2,6 +2,8 @@
 title: Word Association Net
 author: admin
 date: 2009-10-10 9:41:51
+categories:
+  - Google Wave
 tags: 
 
 template: article.jade

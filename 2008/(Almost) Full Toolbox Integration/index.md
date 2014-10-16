@@ -2,6 +2,8 @@
 title: (Almost) Full Toolbox Integration
 author: admin
 date: 2008-06-06 8:51:16
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

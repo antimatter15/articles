@@ -2,6 +2,8 @@
 title: Ajax Animator 0.20 Browser Support
 author: admin
 date: 2008-08-05 11:51:07
+categories:
+  - Ajax Animator
 tags: 
   - browser
   - firefox

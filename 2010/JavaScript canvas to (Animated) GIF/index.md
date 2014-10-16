@@ -2,6 +2,11 @@
 title: JavaScript <canvas> to (Animated) GIF
 author: admin
 date: 2010-07-23 5:19:54
+categories:
+  - Ajax Animator
+  - Animated GIF Encoder
+  - Multimedia Codecs
+  - Stick Figures
 tags: 
   - actionscript
   - as3gif

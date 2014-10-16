@@ -2,6 +2,8 @@
 title: New Site In Development
 author: admin
 date: 2007-12-05 8:38:53
+categories:
+  - Meta
 tags: 
 
 template: article.jade

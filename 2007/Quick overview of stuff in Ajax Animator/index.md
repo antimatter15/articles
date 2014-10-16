@@ -2,6 +2,8 @@
 title: Quick overview of stuff in Ajax Animator
 author: admin
 date: 2007-12-12 12:56:50
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

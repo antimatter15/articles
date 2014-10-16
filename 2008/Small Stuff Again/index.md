@@ -2,6 +2,8 @@
 title: Small Stuff Again
 author: admin
 date: 2008-07-28 5:24:15
+categories:
+  - Ajax Animator
 tags: 
   - small
 template: article.jade

@@ -2,6 +2,8 @@
 title: Fixed Tween->Keyframe issues
 author: admin
 date: 2008-06-26 6:37:20
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

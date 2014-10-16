@@ -2,6 +2,8 @@
 title: touch input device
 author: admin
 date: 2009-06-02 9:53:16
+categories:
+  - MirrorTouch
 tags: 
   - delay
   - MirrorTouch

@@ -2,6 +2,8 @@
 title: Run Brainf*ck... on your brain
 author: admin
 date: 2009-04-16 9:24:50
+categories:
+  - Uncategorized
 tags: 
   - brain
   - brainfuck

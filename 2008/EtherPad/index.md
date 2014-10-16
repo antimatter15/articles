@@ -2,6 +2,8 @@
 title: EtherPad
 author: admin
 date: 2008-12-17 10:42:58
+categories:
+  - Google Wave
 tags: 
   - etherpad
   - links

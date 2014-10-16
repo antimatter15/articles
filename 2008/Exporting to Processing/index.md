@@ -2,6 +2,8 @@
 title: Exporting to Processing
 author: admin
 date: 2008-07-19 2:19:10
+categories:
+  - Ajax Animator
 tags: 
   - export
   - language

@@ -2,6 +2,9 @@
 title: Ajax Animator iPad Support
 author: admin
 date: 2010-04-11 8:51:14
+categories:
+  - Ajax Animator
+  - VectorEditor
 tags: 
   - ajax animator
   - apple

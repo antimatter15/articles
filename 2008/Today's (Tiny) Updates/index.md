@@ -2,6 +2,9 @@
 title: Today's (Tiny) Updates
 author: admin
 date: 2008-04-30 7:19:19
+categories:
+  - Ajax Animator
+  - OnlyPaths
 tags: 
   - about
   - ajax animator

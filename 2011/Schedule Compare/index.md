@@ -2,6 +2,9 @@
 title: Schedule Compare
 author: admin
 date: 2011-09-02 8:39:17
+categories:
+  - Education
+  - Schedule Compare
 tags: 
   - api
   - demographic

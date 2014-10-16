@@ -2,6 +2,9 @@
 title: μwave updates
 author: admin
 date: 2010-06-03 2:34:26
+categories:
+  - Google Wave
+  - Microwave
 tags: 
   - ajax
   - google

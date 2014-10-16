@@ -2,6 +2,8 @@
 title: Ajax Animator Thoughts
 author: admin
 date: 2008-10-25 11:10:58
+categories:
+  - Ajax Animator
 tags: 
   - collaboration
   - GAE

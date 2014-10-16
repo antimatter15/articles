@@ -2,6 +2,8 @@
 title: Javascript Distributed Computing + Google App Engine
 author: admin
 date: 2008-06-12 4:41:17
+categories:
+  - Javascript Distributed Computing
 tags: 
 
 template: article.jade

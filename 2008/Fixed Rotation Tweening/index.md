@@ -2,6 +2,8 @@
 title: Fixed Rotation Tweening
 author: admin
 date: 2008-07-02 5:01:55
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

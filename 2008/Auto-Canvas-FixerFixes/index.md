@@ -2,6 +2,8 @@
 title: Auto-Canvas-Fixer/Fixes
 author: admin
 date: 2008-06-25 8:53:36
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

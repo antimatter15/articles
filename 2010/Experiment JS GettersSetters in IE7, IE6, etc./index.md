@@ -2,6 +2,8 @@
 title: Experiment JS Getters/Setters in IE7, IE6, etc.
 author: admin
 date: 2010-02-20 8:44:37
+categories:
+  - Uncategorized
 tags: 
 
 template: article.jade

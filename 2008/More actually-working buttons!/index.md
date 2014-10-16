@@ -2,6 +2,8 @@
 title: More actually-working buttons!
 author: admin
 date: 2008-06-17 7:29:55
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

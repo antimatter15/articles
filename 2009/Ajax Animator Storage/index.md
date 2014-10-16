@@ -2,6 +2,9 @@
 title: Ajax Animator Storage
 author: admin
 date: 2009-09-11 6:54:58
+categories:
+  - Ajax Animator
+  - Google Wave
 tags: 
   - ajax animator
   - appengine

@@ -2,6 +2,8 @@
 title: Array Addition and Other Fun Javascript Hacks
 author: admin
 date: 2013-06-30 11:56:30
+categories:
+  - Fun
 tags: 
   - addition
   - arrays

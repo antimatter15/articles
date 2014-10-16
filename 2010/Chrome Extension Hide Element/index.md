@@ -2,6 +2,8 @@
 title: Chrome Extension Hide Element
 author: admin
 date: 2010-08-29 1:09:49
+categories:
+  - Hide Elements
 tags: 
   - chrome extension
   - context menu

@@ -2,6 +2,9 @@
 title: Simple Javascript 3D Function Plotter
 author: admin
 date: 2010-05-04 9:37:59
+categories:
+  - 3D
+  - Function Plotter
 tags: 
   - 3D
   - function

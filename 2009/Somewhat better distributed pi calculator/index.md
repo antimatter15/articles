@@ -2,6 +2,8 @@
 title: Somewhat better distributed pi calculator
 author: admin
 date: 2009-05-27 7:32:16
+categories:
+  - Javascript Distributed Computing
 tags: 
   - better
   - calculator

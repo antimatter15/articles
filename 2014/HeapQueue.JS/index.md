@@ -2,6 +2,8 @@
 title: HeapQueue.JS
 author: admin
 date: 2014-01-28 12:51:32
+categories:
+  - vX JS
 tags: 
   - doge
   - heap

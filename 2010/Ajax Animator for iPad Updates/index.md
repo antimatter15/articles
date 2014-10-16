@@ -2,6 +2,8 @@
 title: Ajax Animator for iPad Updates
 author: admin
 date: 2010-06-17 6:38:19
+categories:
+  - Ajax Animator
 tags: 
   - ajax animator
   - ipad

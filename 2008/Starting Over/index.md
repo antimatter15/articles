@@ -2,6 +2,8 @@
 title: Starting Over
 author: admin
 date: 2008-05-25 10:51:56
+categories:
+  - Meta
 tags: 
   - adjust
   - blog

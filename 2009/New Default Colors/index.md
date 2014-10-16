@@ -2,6 +2,8 @@
 title: New Default Colors?
 author: admin
 date: 2009-09-24 7:35:27
+categories:
+  - Ajax Animator
 tags: 
   - color
   - nitpicking

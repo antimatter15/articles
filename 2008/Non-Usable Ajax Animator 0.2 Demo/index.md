@@ -2,6 +2,8 @@
 title: Non-Usable Ajax Animator 0.2 Demo
 author: admin
 date: 2008-04-20 7:15:07
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

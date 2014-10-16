@@ -2,6 +2,8 @@
 title: Build 102
 author: admin
 date: 2008-06-02 10:13:51
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

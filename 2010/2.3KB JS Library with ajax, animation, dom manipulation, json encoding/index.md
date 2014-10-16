@@ -2,6 +2,8 @@
 title: 2.3KB JS Library with ajax, animation, dom manipulation, json encoding
 author: admin
 date: 2010-03-07 4:29:06
+categories:
+  - vX JS
 tags: 
   - javascript
   - library

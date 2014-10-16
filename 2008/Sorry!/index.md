@@ -2,6 +2,8 @@
 title: Sorry!
 author: admin
 date: 2008-06-07 1:12:07
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

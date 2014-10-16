@@ -2,6 +2,9 @@
 title: New ShinyTouch Reflection Recognition Ideas
 author: admin
 date: 2009-07-18 4:55:59
+categories:
+  - ShinyTouch
+  - Touchscreens
 tags: 
 
 template: article.jade

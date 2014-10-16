@@ -2,6 +2,8 @@
 title: Gmail Style HTML5 Drag/Drop
 author: admin
 date: 2010-10-01 5:33:38
+categories:
+  - drag2up
 tags: 
   - browsers
   - chrome

@@ -2,6 +2,8 @@
 title: Sorry for the downtime.
 author: admin
 date: 2008-07-05 9:02:47
+categories:
+  - Meta
 tags: 
 
 template: article.jade

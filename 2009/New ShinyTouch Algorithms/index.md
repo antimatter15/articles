@@ -2,6 +2,9 @@
 title: New ShinyTouch Algorithms
 author: admin
 date: 2009-07-21 6:18:33
+categories:
+  - ShinyTouch
+  - Touchscreens
 tags: 
   - complicated
   - config

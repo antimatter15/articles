@@ -2,6 +2,9 @@
 title: Pepper Spray Cop
 author: admin
 date: 2011-11-30 11:56:51
+categories:
+  - Fun
+  - Pepper Spray Cop
 tags: 
   - burn
   - Capsaicin

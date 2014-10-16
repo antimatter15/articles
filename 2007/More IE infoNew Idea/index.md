@@ -2,6 +2,8 @@
 title: More IE info/New Idea
 author: admin
 date: 2007-12-22 6:02:02
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

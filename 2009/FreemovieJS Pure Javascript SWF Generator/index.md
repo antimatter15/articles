@@ -2,6 +2,9 @@
 title: Freemovie/JS Pure Javascript SWF Generator
 author: admin
 date: 2009-08-17 12:12:28
+categories:
+  - Ajax Animator
+  - Freemovie&#x2F;JS
 tags: 
   - flash
   - freemovie

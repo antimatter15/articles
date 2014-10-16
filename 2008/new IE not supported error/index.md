@@ -2,6 +2,8 @@
 title: new IE not supported error
 author: admin
 date: 2008-07-29 9:24:45
+categories:
+  - Ajax Animator
 tags: 
   - internet exploder
   - mean

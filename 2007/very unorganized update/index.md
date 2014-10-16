@@ -2,6 +2,8 @@
 title: very unorganized update
 author: admin
 date: 2007-12-27 6:02:50
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

@@ -2,6 +2,9 @@
 title: Raspberry Pi
 author: admin
 date: 2012-08-14 11:00:26
+categories:
+  - Hardware
+  - Raspberry Pi
 tags: 
   - arduino
   - arm

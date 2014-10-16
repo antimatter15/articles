@@ -2,6 +2,8 @@
 title: Polylines
 author: admin
 date: 2008-02-21 6:08:49
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

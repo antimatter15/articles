@@ -2,6 +2,8 @@
 title: Fixed Path Moving.
 author: admin
 date: 2008-07-03 6:40:25
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

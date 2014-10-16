@@ -2,6 +2,9 @@
 title: How I would design a touchscreen browser
 author: admin
 date: 2009-07-24 10:53:43
+categories:
+  - Design
+  - Touchscreens
 tags: 
   - browser
   - idea

@@ -2,6 +2,8 @@
 title: Ajax Animator Status
 author: admin
 date: 2009-08-17 5:12:13
+categories:
+  - Ajax Animator
 tags: 
   - i feel old
   - milestone

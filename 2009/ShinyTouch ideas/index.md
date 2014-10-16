@@ -2,6 +2,9 @@
 title: ShinyTouch ideas
 author: admin
 date: 2009-07-13 11:22:21
+categories:
+  - ShinyTouch
+  - Touchscreens
 tags: 
   - flash
   - idea

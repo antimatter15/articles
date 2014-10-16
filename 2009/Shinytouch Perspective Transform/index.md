@@ -2,6 +2,9 @@
 title: Shinytouch Perspective Transform
 author: admin
 date: 2009-08-23 4:25:46
+categories:
+  - ShinyTouch
+  - Touchscreens
 tags: 
   - elitist
   - ShinyTouch

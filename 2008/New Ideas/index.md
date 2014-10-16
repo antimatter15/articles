@@ -2,6 +2,9 @@
 title: New Ideas
 author: admin
 date: 2008-04-23 7:15:32
+categories:
+  - Ajax Animator
+  - OnlyPaths
 tags: 
 
 template: article.jade

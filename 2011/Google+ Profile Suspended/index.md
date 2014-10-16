@@ -2,6 +2,8 @@
 title: Google+ Profile Suspended
 author: admin
 date: 2011-07-24 11:56:10
+categories:
+  - Google+
 tags: 
   - antimatter15
   - banhammer

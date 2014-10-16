@@ -2,6 +2,8 @@
 title: Chrome OS, the delusion of native, and perfection
 author: admin
 date: 2011-05-22 8:55:12
+categories:
+  - Uncategorized
 tags: 
 
 template: article.jade

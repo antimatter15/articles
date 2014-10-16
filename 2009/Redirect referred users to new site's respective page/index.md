@@ -2,6 +2,8 @@
 title: Redirect referred users to new site's respective page
 author: admin
 date: 2009-07-14 1:09:28
+categories:
+  - Meta
 tags: 
   - hosting
   - wordpress

@@ -2,6 +2,9 @@
 title: Real Wave Desktop Reader
 author: admin
 date: 2009-10-29 10:33:13
+categories:
+  - Google Wave
+  - Wave Reader
 tags: 
   - desktop
   - python

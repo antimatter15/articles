@@ -2,6 +2,9 @@
 title: TUIO Support
 author: admin
 date: 2009-08-01 11:17:57
+categories:
+  - ShinyTouch
+  - Touchscreens
 tags: 
   - calibration
   - elitist
