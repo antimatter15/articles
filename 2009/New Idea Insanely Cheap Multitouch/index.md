@@ -2,6 +2,9 @@
 title: New Idea Insanely Cheap Multitouch
 author: admin
 date: 2009-03-14 10:31:24
+categories:
+  - MirrorTouch
+  - Touchscreens
 tags: 
   - cheap
   - mirror

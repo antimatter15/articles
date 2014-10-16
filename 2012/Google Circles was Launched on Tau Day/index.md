@@ -2,6 +2,8 @@
 title: Google Circles was Launched on Tau Day
 author: admin
 date: 2012-01-13 8:10:23
+categories:
+  - Fun
 tags: 
   - circles
   - day

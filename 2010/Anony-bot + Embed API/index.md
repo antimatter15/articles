@@ -2,6 +2,10 @@
 title: Anony-bot + Embed API
 author: admin
 date: 2010-06-25 12:24:25
+categories:
+  - Anony-bot
+  - Deep Comment Integration
+  - Google Wave
 tags: 
 
 template: article.jade

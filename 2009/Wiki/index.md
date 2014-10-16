@@ -2,6 +2,8 @@
 title: Wiki
 author: admin
 date: 2009-03-07 11:26:37
+categories:
+  - Meta
 tags: 
   - site
   - wiki

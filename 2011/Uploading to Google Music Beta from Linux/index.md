@@ -2,6 +2,9 @@
 title: Uploading to Google Music Beta from Linux
 author: admin
 date: 2011-05-11 11:17:23
+categories:
+  - Chrome Extensions
+  - MusicAlpha
 tags: 
   - audio
   - hacks

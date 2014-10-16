@@ -2,6 +2,8 @@
 title: μwave updates again
 author: admin
 date: 2010-06-30 7:07:46
+categories:
+  - Microwave
 tags: 
   - evil empire
   - google

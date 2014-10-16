@@ -2,6 +2,9 @@
 title: HTML5/CSS3 Zooming User Interface
 author: admin
 date: 2010-08-29 1:39:34
+categories:
+  - Design
+  - Zooming User Interface
 tags: 
   - interface
   - pan

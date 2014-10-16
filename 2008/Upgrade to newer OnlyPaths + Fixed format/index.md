@@ -2,6 +2,9 @@
 title: Upgrade to newer OnlyPaths + Fixed format
 author: admin
 date: 2008-06-30 6:49:18
+categories:
+  - Ajax Animator
+  - OnlyPaths
 tags: 
 
 template: article.jade

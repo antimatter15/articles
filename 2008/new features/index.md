@@ -2,6 +2,8 @@
 title: new features
 author: admin
 date: 2008-08-03 12:35:23
+categories:
+  - Ajax Animator
 tags: 
   - features
   - version

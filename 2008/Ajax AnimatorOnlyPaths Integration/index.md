@@ -2,6 +2,9 @@
 title: Ajax Animator/OnlyPaths Integration
 author: admin
 date: 2008-06-06 6:55:15
+categories:
+  - Ajax Animator
+  - OnlyPaths
 tags: 
 
 template: article.jade

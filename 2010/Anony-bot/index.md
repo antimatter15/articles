@@ -2,6 +2,8 @@
 title: Anony-bot
 author: admin
 date: 2010-06-30 7:23:53
+categories:
+
 tags: 
 
 template: article.jade

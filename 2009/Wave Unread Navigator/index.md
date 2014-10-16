@@ -2,6 +2,8 @@
 title: Wave Unread Navigator
 author: admin
 date: 2009-12-13 12:42:59
+categories:
+  - Google Wave
 tags: 
   - chrome
   - chrome extension

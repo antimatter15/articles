@@ -2,6 +2,8 @@
 title: Bye Bye Tween Cache
 author: admin
 date: 2008-06-26 3:26:57
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

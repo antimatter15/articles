@@ -2,6 +2,9 @@
 title: Determining if a Mousewheel Event Results in Scroll
 author: admin
 date: 2012-08-14 3:14:54
+categories:
+  - Chrome Extensions
+  - Swipe Gesture
 tags: 
   - 2.0
   - browser

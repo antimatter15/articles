@@ -2,6 +2,8 @@
 title: Ax2 Screenshots (Build 137)
 author: admin
 date: 2008-06-08 3:59:21
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

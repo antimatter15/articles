@@ -2,6 +2,8 @@
 title: zQuery
 author: admin
 date: 2010-09-06 8:45:15
+categories:
+  - vX JS
 tags: 
 
 template: article.jade

@@ -2,6 +2,8 @@
 title: Flash Export
 author: admin
 date: 2008-07-21 9:17:01
+categories:
+  - Ajax Animator
 tags: 
   - export
   - flash

@@ -2,6 +2,8 @@
 title: Working Animation Browser
 author: admin
 date: 2008-06-30 11:41:02
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

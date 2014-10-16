@@ -2,6 +2,8 @@
 title: Project Wikify Success
 author: admin
 date: 2008-09-09 8:12:47
+categories:
+  - Project Wikify
 tags: 
   - fun
   - success

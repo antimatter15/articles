@@ -2,6 +2,8 @@
 title: Dojo?
 author: admin
 date: 2008-11-01 1:18:17
+categories:
+  - Ajax Animator
 tags: 
   - CDN
   - dojo

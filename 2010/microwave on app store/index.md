@@ -2,6 +2,9 @@
 title: microwave on app store
 author: admin
 date: 2010-08-23 7:48:53
+categories:
+  - Google Wave
+  - Microwave
 tags: 
   - app store
   - apple

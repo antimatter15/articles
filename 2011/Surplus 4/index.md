@@ -2,6 +2,10 @@
 title: Surplus 4
 author: admin
 date: 2011-10-29 2:48:42
+categories:
+  - Chrome Extensions
+  - Google+
+  - Surplus
 tags: 
   - add
   - chrome

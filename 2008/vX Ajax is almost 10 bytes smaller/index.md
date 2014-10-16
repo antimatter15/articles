@@ -2,6 +2,8 @@
 title: vX Ajax is almost 10 bytes smaller
 author: admin
 date: 2008-12-04 6:15:06
+categories:
+  - vX JS
 tags: 
   - ajax
   - smaller

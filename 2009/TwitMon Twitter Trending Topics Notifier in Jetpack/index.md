@@ -2,6 +2,8 @@
 title: TwitMon Twitter Trending Topics Notifier in Jetpack
 author: admin
 date: 2009-07-15 9:55:37
+categories:
+  - Web Notifications
 tags: 
   - jetpack
   - mozilla

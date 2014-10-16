@@ -2,6 +2,8 @@
 title: Weppy Updates Opera, Chrome and Firefox support and simpler usage
 author: admin
 date: 2010-10-09 10:59:34
+categories:
+  - Weppy
 tags: 
   - ajax
   - browsers

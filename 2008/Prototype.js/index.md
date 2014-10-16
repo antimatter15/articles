@@ -2,6 +2,9 @@
 title: Prototype.js
 author: admin
 date: 2008-05-12 11:10:31
+categories:
+  - Ajax Animator
+  - Meta
 tags: 
 
 template: article.jade

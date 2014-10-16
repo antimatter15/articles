@@ -2,6 +2,8 @@
 title: Moving an element to a new window
 author: admin
 date: 2010-02-06 10:43:06
+categories:
+  - Uncategorized
 tags: 
   - windowing
 template: article.jade

@@ -2,6 +2,8 @@
 title: Opera 9.25 Support
 author: admin
 date: 2008-06-06 9:38:28
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

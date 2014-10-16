@@ -2,6 +2,8 @@
 title: IE Support
 author: admin
 date: 2008-06-06 10:09:57
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

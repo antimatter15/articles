@@ -2,6 +2,8 @@
 title: Dump/Load Shapes API
 author: admin
 date: 2008-06-07 4:15:21
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

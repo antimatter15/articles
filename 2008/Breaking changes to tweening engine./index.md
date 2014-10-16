@@ -2,6 +2,8 @@
 title: Breaking changes to tweening engine.
 author: admin
 date: 2008-07-02 5:37:27
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

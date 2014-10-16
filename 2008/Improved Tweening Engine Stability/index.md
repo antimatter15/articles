@@ -2,6 +2,8 @@
 title: Improved Tweening Engine Stability
 author: admin
 date: 2008-07-13 2:12:21
+categories:
+  - Ajax Animator
 tags: 
   - tweening
 template: article.jade

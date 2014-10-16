@@ -2,6 +2,8 @@
 title: Build 200
 author: admin
 date: 2008-06-27 6:39:14
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

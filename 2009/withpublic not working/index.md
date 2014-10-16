@@ -2,6 +2,8 @@
 title: withpublic not working
 author: admin
 date: 2009-10-19 11:55:35
+categories:
+  - Google Wave
 tags: 
   - googlewave
   - omgoogle

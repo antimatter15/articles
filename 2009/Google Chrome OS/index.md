@@ -2,6 +2,9 @@
 title: Google Chrome OS
 author: admin
 date: 2009-08-04 9:18:15
+categories:
+  - Chrome Extensions
+  - Cloud Save
 tags: 
   - google
 template: article.jade

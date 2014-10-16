@@ -2,6 +2,9 @@
 title: XPath Bookmark Bookmarklet
 author: admin
 date: 2009-11-01 4:33:48
+categories:
+  - Other
+  - Uncategorized
 tags: 
   - bookmarklet
   - elitist

@@ -2,6 +2,9 @@
 title: Small Updates
 author: admin
 date: 2008-05-05 7:20:05
+categories:
+  - Ajax Animator
+  - OnlyPaths
 tags: 
   - color picker
   - ExtJS

@@ -2,6 +2,9 @@
 title: Wave Gadget API issues (again)
 author: admin
 date: 2009-09-07 9:40:58
+categories:
+  - Ajax Animator
+  - Google Wave
 tags: 
   - google
   - google wave

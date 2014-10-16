@@ -2,6 +2,9 @@
 title: Second Argument for alert()
 author: admin
 date: 2009-09-02 8:41:54
+categories:
+  - Design
+  - Web Notifications
 tags: 
 
 template: article.jade

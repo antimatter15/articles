@@ -2,6 +2,9 @@
 title: Wave Reader 5.7
 author: admin
 date: 2010-02-03 9:01:04
+categories:
+  - Google Wave
+  - Wave Reader
 tags: 
   - google
   - reader

@@ -2,6 +2,8 @@
 title: Weppy Javascript Shim for WebP on Chrome 6 and Firefox 4.0
 author: admin
 date: 2010-10-03 7:18:02
+categories:
+  - Weppy
 tags: 
   - ajax
   - browsers

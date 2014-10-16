@@ -2,6 +2,8 @@
 title: Experiment Ruby-style function auto-calling in Javascript
 author: admin
 date: 2010-07-22 1:21:26
+categories:
+  - Uncategorized
 tags: 
   - automatic calling
   - function

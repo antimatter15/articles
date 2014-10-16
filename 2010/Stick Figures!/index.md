@@ -2,6 +2,10 @@
 title: Stick Figures!
 author: admin
 date: 2010-02-27 5:00:06
+categories:
+  - Ajax Animator
+  - Stick Figures
+  - VectorEditor
 tags: 
   - ajax animator
   - pencil

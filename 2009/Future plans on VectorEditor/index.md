@@ -2,6 +2,8 @@
 title: Future plans on VectorEditor
 author: admin
 date: 2009-08-23 9:50:19
+categories:
+  - Ajax Animator
 tags: 
   - fragmentation
 template: article.jade

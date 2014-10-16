@@ -2,6 +2,8 @@
 title: Ajax Animator on Chrome Web Store (well, when it's released)
 author: admin
 date: 2010-06-25 11:14:29
+categories:
+  - Ajax Animator
 tags: 
   - ajax animator
   - apps

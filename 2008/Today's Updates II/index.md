@@ -2,6 +2,9 @@
 title: Today's Updates II
 author: admin
 date: 2008-05-26 6:55:53
+categories:
+  - Ajax Animator
+  - OnlyPaths
 tags: 
   - color
   - compile

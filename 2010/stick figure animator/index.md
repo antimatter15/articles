@@ -2,6 +2,9 @@
 title: stick figure animator
 author: admin
 date: 2010-06-22 9:29:03
+categories:
+  - Ajax Animator
+  - Stick Figures
 tags: 
   - ajax animator
   - animations

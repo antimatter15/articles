@@ -2,6 +2,8 @@
 title: Awesome Updater Tool
 author: admin
 date: 2008-04-26 7:17:17
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

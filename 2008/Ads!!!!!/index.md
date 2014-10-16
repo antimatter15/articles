@@ -2,6 +2,8 @@
 title: Ads!!!!!
 author: admin
 date: 2008-05-13 12:52:07
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

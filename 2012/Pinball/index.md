@@ -2,6 +2,9 @@
 title: Pinball
 author: admin
 date: 2012-06-19 3:25:57
+categories:
+  - Games
+  - Pinball
 tags: 
   - javascript
   - mathematica

@@ -2,6 +2,9 @@
 title: ShinyTouch Auto-Calibration
 author: admin
 date: 2009-07-25 11:01:41
+categories:
+  - ShinyTouch
+  - Touchscreens
 tags: 
   - calibrate
   - python

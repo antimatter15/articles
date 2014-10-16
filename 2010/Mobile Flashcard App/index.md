@@ -2,6 +2,8 @@
 title: Mobile Flashcard App
 author: admin
 date: 2010-06-12 8:39:03
+categories:
+  - Uncategorized
 tags: 
 
 template: article.jade

@@ -2,6 +2,8 @@
 title: Testing Out Awesome Syntax Highlighter
 author: admin
 date: 2008-05-09 10:52:56
+categories:
+  - Meta
 tags: 
 
 template: article.jade

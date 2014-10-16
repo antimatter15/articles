@@ -2,6 +2,8 @@
 title: Chrome Multitask Mode for Real with Multi-Pointer Xorg
 author: admin
 date: 2012-04-04 1:32:28
+categories:
+  - Fun
 tags: 
   - april fools
   - chrome

@@ -2,6 +2,8 @@
 title: Multicore Javascript Pi Computing with WebWorkers
 author: admin
 date: 2010-07-14 7:27:39
+categories:
+  - Javascript Distributed Computing
 tags: 
   - digit extraction
   - fast

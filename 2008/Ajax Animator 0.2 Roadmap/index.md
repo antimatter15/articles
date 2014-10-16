@@ -2,6 +2,8 @@
 title: Ajax Animator 0.2 Roadmap
 author: admin
 date: 2008-04-15 7:14:41
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

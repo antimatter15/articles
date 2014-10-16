@@ -2,6 +2,9 @@
 title: ShinyTouch Images
 author: admin
 date: 2009-08-01 11:15:05
+categories:
+  - ShinyTouch
+  - Touchscreens
 tags: 
   - app
   - calibration

@@ -2,6 +2,8 @@
 title: Slower Development
 author: admin
 date: 2008-01-17 6:05:12
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

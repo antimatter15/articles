@@ -2,6 +2,9 @@
 title: Wikify Update
 author: admin
 date: 2008-12-04 6:07:36
+categories:
+  - Other
+  - Project Wikify
 tags: 
   - toolbar
   - ui

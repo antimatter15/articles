@@ -2,6 +2,8 @@
 title: New Features coming in Ajax Animator 0.15 (aka 1.5, read to find out why)
 author: admin
 date: 2007-12-02 3:12:29
+categories:
+  - Ajax Animator
 tags: 
   - backwards compatibility
   - code

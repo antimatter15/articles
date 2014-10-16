@@ -2,6 +2,8 @@
 title: Partial Toolbox Integration
 author: admin
 date: 2008-06-06 7:27:52
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

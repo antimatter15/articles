@@ -2,6 +2,8 @@
 title: Save → Computer Support
 author: admin
 date: 2008-07-10 9:02:56
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

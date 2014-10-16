@@ -2,6 +2,9 @@
 title: ShinyTouch is 1 month old
 author: admin
 date: 2009-07-28 5:33:57
+categories:
+  - ShinyTouch
+  - Touchscreens
 tags: 
   - age
   - bugfix

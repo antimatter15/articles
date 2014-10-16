@@ -2,6 +2,10 @@
 title: WebWorkers + Canvas + Glif + GIFEncoder = Client Side Animated Gif Generation
 author: admin
 date: 2009-08-18 2:17:00
+categories:
+  - Ajax Animator
+  - Animated GIF Encoder
+  - Multimedia Codecs
 tags: 
   - fail
 template: article.jade

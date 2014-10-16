@@ -2,6 +2,9 @@
 title: Ajax Animator + OnlyPaths Viewer
 author: admin
 date: 2008-06-28 12:26:48
+categories:
+  - Ajax Animator
+  - OnlyPaths
 tags: 
 
 template: article.jade

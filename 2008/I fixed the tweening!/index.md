@@ -2,6 +2,8 @@
 title: I fixed the tweening!
 author: admin
 date: 2008-06-26 5:45:44
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

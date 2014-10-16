@@ -2,6 +2,9 @@
 title: ShinyTouch is Complicated
 author: admin
 date: 2009-08-22 7:28:38
+categories:
+  - ShinyTouch
+  - Touchscreens
 tags: 
 
 template: article.jade

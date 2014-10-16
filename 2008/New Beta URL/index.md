@@ -2,6 +2,8 @@
 title: New Beta URL
 author: admin
 date: 2008-06-16 8:33:00
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

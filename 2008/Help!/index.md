@@ -2,6 +2,8 @@
 title: Help!
 author: admin
 date: 2008-04-09 7:12:18
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

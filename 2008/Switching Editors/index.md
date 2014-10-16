@@ -2,6 +2,8 @@
 title: Switching Editors
 author: admin
 date: 2008-06-15 5:01:01
+categories:
+  - Uncategorized
 tags: 
   - computer
   - komodo

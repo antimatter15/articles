@@ -2,6 +2,8 @@
 title: HTTP based federated protocol for real time hierarchical message manipulation
 author: admin
 date: 2010-08-29 1:53:04
+categories:
+  - Google Wave
 tags: 
   - awesomeness
   - better than wave

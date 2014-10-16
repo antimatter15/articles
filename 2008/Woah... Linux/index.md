@@ -2,6 +2,8 @@
 title: Woah... Linux
 author: admin
 date: 2008-07-02 2:17:40
+categories:
+  - Uncategorized
 tags: 
 
 template: article.jade

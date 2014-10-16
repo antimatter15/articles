@@ -2,6 +2,8 @@
 title: Ajax Animator + Vector Editor
 author: admin
 date: 2009-07-24 11:00:33
+categories:
+  - Ajax Animator
 tags: 
   - new
   - port

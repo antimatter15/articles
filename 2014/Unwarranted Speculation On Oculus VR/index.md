@@ -2,6 +2,9 @@
 title: Unwarranted Speculation On Oculus VR
 author: admin
 date: 2014-03-30 3:25:05
+categories:
+  - 3D
+  - Additive 3D Glasses
 tags: 
   - blog
   - conspiracy theory

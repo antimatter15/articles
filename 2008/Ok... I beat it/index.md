@@ -2,6 +2,8 @@
 title: Ok... I beat it
 author: admin
 date: 2008-10-20 5:01:12
+categories:
+  - vX JS
 tags: 
 
 template: article.jade

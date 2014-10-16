@@ -2,6 +2,8 @@
 title: VectorEditor Updates lines, rotation, more
 author: admin
 date: 2009-08-10 10:23:12
+categories:
+  - VectorEditor
 tags: 
   - chrome
   - drag

@@ -2,6 +2,8 @@
 title: Ajax Animator Sucessfully Updated!
 author: admin
 date: 2007-12-27 6:03:21
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

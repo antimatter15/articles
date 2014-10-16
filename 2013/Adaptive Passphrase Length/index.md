@@ -2,6 +2,9 @@
 title: Adaptive Passphrase Length
 author: admin
 date: 2013-07-31 11:57:09
+categories:
+  - Passwords
+  - Security
 tags: 
   - anecdote
   - arbitrary

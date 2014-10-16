@@ -2,6 +2,8 @@
 title: Project Wikify Prototype 5 Released
 author: admin
 date: 2008-09-18 4:27:45
+categories:
+  - Project Wikify
 tags: 
   - prototype
   - update

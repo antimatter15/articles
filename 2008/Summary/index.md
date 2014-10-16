@@ -2,6 +2,8 @@
 title: Summary
 author: admin
 date: 2008-04-14 7:14:24
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

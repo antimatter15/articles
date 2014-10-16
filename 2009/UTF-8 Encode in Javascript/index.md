@@ -2,6 +2,8 @@
 title: UTF-8 Encode in Javascript
 author: admin
 date: 2009-09-02 8:39:09
+categories:
+  - Uncategorized
 tags: 
 
 template: article.jade

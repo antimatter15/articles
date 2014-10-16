@@ -2,6 +2,8 @@
 title: The future of the Ajax Animator
 author: admin
 date: 2009-12-12 4:27:55
+categories:
+  - Ajax Animator
 tags: 
   - awesomeness
   - future

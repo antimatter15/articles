@@ -2,6 +2,9 @@
 title: Cloud Save 1.3
 author: admin
 date: 2011-05-10 7:23:34
+categories:
+  - Chrome Extensions
+  - Cloud Save
 tags: 
   - chrome
   - cloud save

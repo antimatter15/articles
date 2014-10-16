@@ -2,6 +2,9 @@
 title: Whammy A Real Time Javascript WebM Encoder
 author: admin
 date: 2012-08-19 10:46:46
+categories:
+  - Multimedia Codecs
+  - Whammy
 tags: 
   - demo
   - fast

@@ -2,6 +2,8 @@
 title: My Ideal Browser Addon System
 author: admin
 date: 2009-08-22 7:28:53
+categories:
+  - Design
 tags: 
 
 template: article.jade

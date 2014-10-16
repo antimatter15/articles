@@ -2,6 +2,9 @@
 title: ShinyTouch/JS
 author: admin
 date: 2009-08-28 10:17:23
+categories:
+  - ShinyTouch
+  - Touchscreens
 tags: 
   - actionscript
   - algorithm

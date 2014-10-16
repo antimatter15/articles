@@ -2,6 +2,8 @@
 title: Do not go to testing site
 author: admin
 date: 2008-08-03 7:52:55
+categories:
+  - Ajax Animator
 tags: 
   - testing
 template: article.jade

@@ -2,6 +2,8 @@
 title: More Ads!
 author: admin
 date: 2008-05-13 11:21:07
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

@@ -2,6 +2,8 @@
 title: Busy.
 author: admin
 date: 2008-07-27 8:18:11
+categories:
+  - Ajax Animator
 tags: 
   - computer
   - new

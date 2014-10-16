@@ -2,6 +2,8 @@
 title: gravity
 author: admin
 date: 2010-06-10 11:05:28
+categories:
+  - Gravity
 tags: 
   - buzzword
   - canvas

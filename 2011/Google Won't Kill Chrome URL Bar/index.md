@@ -2,6 +2,8 @@
 title: Google Won't Kill Chrome URL Bar
 author: admin
 date: 2011-02-21 6:50:17
+categories:
+  - Chrome Extensions
 tags: 
   - chrome os
   - jonathan coulton

@@ -2,6 +2,8 @@
 title: New Recovery Menu + Reload Animation
 author: admin
 date: 2008-07-02 6:10:45
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

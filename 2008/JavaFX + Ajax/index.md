@@ -2,6 +2,8 @@
 title: JavaFX + Ajax
 author: admin
 date: 2008-08-04 1:25:17
+categories:
+  - Ajax Animator
 tags: 
   - ajax
   - anagram

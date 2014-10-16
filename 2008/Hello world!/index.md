@@ -2,6 +2,8 @@
 title: Hello world!
 author: admin
 date: 2008-05-07 5:50:28
+categories:
+  - Meta
 tags: 
   - blog post
   - change

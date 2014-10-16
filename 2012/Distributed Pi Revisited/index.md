@@ -2,6 +2,8 @@
 title: Distributed Pi Revisited
 author: admin
 date: 2012-08-11 10:43:29
+categories:
+  - Javascript Distributed Computing
 tags: 
   - bbp
   - computing

@@ -2,6 +2,8 @@
 title: Ajax Animator Manual
 author: admin
 date: 2008-08-15 10:14:21
+categories:
+  - Ajax Animator
 tags: 
   - manual
 template: article.jade

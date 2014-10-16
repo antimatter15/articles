@@ -2,6 +2,8 @@
 title: Changed Toolbox Icons
 author: admin
 date: 2008-06-16 8:51:59
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

@@ -2,6 +2,9 @@
 title: Samsung Series 5 Chromebook
 author: admin
 date: 2011-06-23 8:41:00
+categories:
+  - Hardware
+  - Samsung Series 5
 tags: 
   - camera
   - chrome

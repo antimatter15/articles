@@ -2,6 +2,8 @@
 title: Progress Report
 author: admin
 date: 2007-10-22 10:06:56
+categories:
+  - Ajax Animator
 tags: 
   - animation browser
   - animations

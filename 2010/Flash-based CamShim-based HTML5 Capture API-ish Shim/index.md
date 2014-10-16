@@ -2,6 +2,9 @@
 title: Flash-based CamShim-based HTML5 Capture API-ish Shim
 author: admin
 date: 2010-07-18 8:41:37
+categories:
+  - ShinyTouch
+  - Touchscreens
 tags: 
 
 template: article.jade

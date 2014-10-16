@@ -2,6 +2,8 @@
 title: Resize Grid, Improved Select, Delete Selection/Clear All
 author: admin
 date: 2008-06-07 3:10:16
+categories:
+  - Ajax Animator
 tags: 
   - clear all
   - colors

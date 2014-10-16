@@ -2,6 +2,8 @@
 title: Minor Updates
 author: admin
 date: 2008-07-27 8:14:00
+categories:
+  - Ajax Animator
 tags: 
   - minor
 template: article.jade

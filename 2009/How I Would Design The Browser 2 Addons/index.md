@@ -2,6 +2,9 @@
 title: How I Would Design The Browser 2 Addons
 author: admin
 date: 2009-08-21 4:37:55
+categories:
+  - Design
+  - Other
 tags: 
   - addons
   - browser

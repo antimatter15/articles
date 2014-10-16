@@ -2,6 +2,8 @@
 title: Some Progress
 author: admin
 date: 2007-10-01 3:42:08
+categories:
+  - Ajax Animator
 tags: 
   - ajax
   - frontend

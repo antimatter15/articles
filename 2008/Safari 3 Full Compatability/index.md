@@ -2,6 +2,8 @@
 title: Safari 3 Full Compatability
 author: admin
 date: 2008-03-24 7:10:11
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

@@ -2,6 +2,9 @@
 title: Etch-A-Sketch on a Trackpad
 author: admin
 date: 2012-08-14 6:47:13
+categories:
+  - Chrome Extensions
+  - Swipe Gesture
 tags: 
   - art
   - draw

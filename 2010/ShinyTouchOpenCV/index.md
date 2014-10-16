@@ -2,6 +2,8 @@
 title: ShinyTouch/OpenCV
 author: admin
 date: 2010-07-15 10:01:26
+categories:
+  - ShinyTouch
 tags: 
   - also_my_second_mouse
   - and_lets_not_forget_my_TI_84_Plus_Calculator

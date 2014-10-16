@@ -2,6 +2,9 @@
 title: drag2up – Drag files onto any site
 author: admin
 date: 2010-10-01 5:44:19
+categories:
+  - Chrome Extensions
+  - drag2up
 tags: 
   - chrome
   - drag

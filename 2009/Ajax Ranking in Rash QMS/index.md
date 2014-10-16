@@ -2,6 +2,8 @@
 title: Ajax Ranking in Rash QMS
 author: admin
 date: 2009-06-20 3:10:04
+categories:
+  - Uncategorized
 tags: 
   - ajax
   - bash

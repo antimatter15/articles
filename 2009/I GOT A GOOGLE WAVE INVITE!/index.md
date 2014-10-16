@@ -2,6 +2,8 @@
 title: I GOT A GOOGLE WAVE INVITE!
 author: admin
 date: 2009-08-13 4:02:21
+categories:
+  - Google Wave
 tags: 
   - elitist
   - google

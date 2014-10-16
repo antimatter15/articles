@@ -2,6 +2,8 @@
 title: Color Tweening
 author: admin
 date: 2008-07-22 3:07:33
+categories:
+  - Ajax Animator
 tags: 
   - color
   - tween

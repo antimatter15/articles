@@ -2,6 +2,8 @@
 title: MD5/SHA1 Pure Javascript Hash Cracking
 author: admin
 date: 2007-10-10 2:13:48
+categories:
+  - Javascript Distributed Computing
 tags: 
   - cracking
   - hash

@@ -2,6 +2,10 @@
 title: Javascript SHA1 and SHA256 in 
 author: admin
 date: 2010-01-03 3:38:29
+categories:
+  - Hash Functions
+  - Javascript Distributed Computing
+  - Security
 tags: 
   - codegolf
   - cryptography

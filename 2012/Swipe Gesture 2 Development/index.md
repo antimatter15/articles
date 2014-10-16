@@ -2,6 +2,9 @@
 title: Swipe Gesture 2 Development
 author: admin
 date: 2012-08-16 8:26:05
+categories:
+  - Chrome Extensions
+  - Swipe Gesture
 tags: 
   - acceleration
   - bootcamp

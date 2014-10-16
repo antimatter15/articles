@@ -2,6 +2,8 @@
 title: Export to Animated GIF
 author: admin
 date: 2008-07-21 6:43:24
+categories:
+  - Ajax Animator
 tags: 
   - animated
   - export

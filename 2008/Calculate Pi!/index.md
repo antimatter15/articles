@@ -2,6 +2,8 @@
 title: Calculate Pi!
 author: admin
 date: 2008-12-31 5:29:31
+categories:
+  - Javascript Distributed Computing
 tags: 
   - calculate
   - distributed computing

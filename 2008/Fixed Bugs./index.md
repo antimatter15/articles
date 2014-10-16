@@ -2,6 +2,8 @@
 title: Fixed Bugs.
 author: admin
 date: 2008-07-02 2:36:53
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

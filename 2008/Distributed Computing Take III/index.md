@@ -2,6 +2,8 @@
 title: Distributed Computing Take III
 author: admin
 date: 2008-12-31 4:19:10
+categories:
+  - Javascript Distributed Computing
 tags: 
   - algorithm
   - javascript

@@ -2,6 +2,8 @@
 title: Steganography in Javascript
 author: admin
 date: 2010-06-02 10:01:05
+categories:
+  - Other
 tags: 
   - infornography
   - kitty

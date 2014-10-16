@@ -2,6 +2,8 @@
 title: Project Naptha
 author: admin
 date: 2014-04-24 2:58:34
+categories:
+  - Project Naptha
 tags: 
   - doge
   - long time waiting

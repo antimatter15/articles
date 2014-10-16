@@ -2,6 +2,9 @@
 title: 3D Sculpting Tool
 author: admin
 date: 2010-09-08 6:24:41
+categories:
+  - 3D
+  - Digital Sculpting
 tags: 
   - 3D
   - alderaan

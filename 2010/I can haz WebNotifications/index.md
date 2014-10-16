@@ -2,6 +2,8 @@
 title: I can haz WebNotifications
 author: admin
 date: 2010-04-18 8:20:46
+categories:
+  - Web Notifications
 tags: 
 
 template: article.jade

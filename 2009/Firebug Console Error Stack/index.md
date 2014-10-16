@@ -2,6 +2,8 @@
 title: Firebug Console Error Stack
 author: admin
 date: 2009-11-01 3:34:01
+categories:
+  - Uncategorized
 tags: 
 
 template: article.jade

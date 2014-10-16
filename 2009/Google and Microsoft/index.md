@@ -2,6 +2,8 @@
 title: Google and Microsoft
 author: admin
 date: 2009-07-13 7:18:59
+categories:
+  - Uncategorized
 tags: 
   - google
   - microsoft

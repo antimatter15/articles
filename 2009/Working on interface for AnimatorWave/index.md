@@ -2,6 +2,8 @@
 title: Working on interface for Animator/Wave
 author: admin
 date: 2009-08-14 5:38:58
+categories:
+  - Ajax Animator
 tags: 
   - google wave
 template: article.jade

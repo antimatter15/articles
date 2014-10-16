@@ -2,6 +2,8 @@
 title: Idea Lego Mindstorms IDE for iPad
 author: admin
 date: 2010-04-08 3:52:13
+categories:
+  - Uncategorized
 tags: 
   - apple
   - childhood

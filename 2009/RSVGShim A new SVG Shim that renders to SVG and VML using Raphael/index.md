@@ -2,6 +2,9 @@
 title: RSVGShim A new SVG Shim that renders to SVG and VML using Raphael
 author: admin
 date: 2009-09-04 2:43:53
+categories:
+  - Ajax Animator
+  - VectorEditor
 tags: 
   - graphics
   - raphael

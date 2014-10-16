@@ -2,6 +2,8 @@
 title: Today's Updates
 author: admin
 date: 2008-05-26 11:37:18
+categories:
+  - Ajax Animator
 tags: 
   - back end
   - combobox

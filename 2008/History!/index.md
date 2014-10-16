@@ -2,6 +2,8 @@
 title: History!
 author: admin
 date: 2008-07-08 8:20:19
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

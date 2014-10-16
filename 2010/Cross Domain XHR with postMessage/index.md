@@ -2,6 +2,8 @@
 title: Cross Domain XHR with postMessage
 author: admin
 date: 2010-04-20 3:01:38
+categories:
+  - Google Wave
 tags: 
 
 template: article.jade

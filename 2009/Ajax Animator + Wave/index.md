@@ -2,6 +2,9 @@
 title: Ajax Animator + Wave
 author: admin
 date: 2009-09-07 9:49:10
+categories:
+  - Ajax Animator
+  - Google Wave
 tags: 
   - ajax animator
   - animation

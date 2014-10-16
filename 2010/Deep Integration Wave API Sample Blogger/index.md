@@ -2,6 +2,9 @@
 title: Deep Integration Wave API Sample Blogger
 author: admin
 date: 2010-08-06 4:12:22
+categories:
+  - Anony-bot
+  - Deep Comment Integration
 tags: 
   - anonybot
   - demo

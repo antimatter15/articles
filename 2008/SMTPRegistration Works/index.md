@@ -2,6 +2,8 @@
 title: SMTP/Registration Works
 author: admin
 date: 2008-05-11 5:09:06
+categories:
+  - Meta
 tags: 
 
 template: article.jade

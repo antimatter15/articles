@@ -2,6 +2,8 @@
 title: ShinyTouch Zero Setup Single Touch Surface Retrofitting Technology
 author: admin
 date: 2009-07-11 8:01:28
+categories:
+  - ShinyTouch
 tags: 
   - concept
   - light

@@ -2,6 +2,8 @@
 title: The interesting order of digital communication paradigms
 author: admin
 date: 2009-07-15 10:23:23
+categories:
+  - Uncategorized
 tags: 
   - awesome
   - communication

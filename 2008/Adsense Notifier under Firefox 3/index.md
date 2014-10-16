@@ -2,6 +2,8 @@
 title: Adsense Notifier under Firefox 3
 author: admin
 date: 2008-12-16 9:54:19
+categories:
+  - Uncategorized
 tags: 
 
 template: article.jade

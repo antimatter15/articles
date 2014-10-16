@@ -2,6 +2,8 @@
 title: New Features
 author: admin
 date: 2007-09-29 12:37:51
+categories:
+  - Ajax Animator
 tags: 
   - file size
   - frames

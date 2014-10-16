@@ -2,6 +2,9 @@
 title: Fluidizer fixed width → fluid width bookmarklet
 author: admin
 date: 2010-07-14 8:59:48
+categories:
+  - Design
+  - Fluidizer
 tags: 
   - bookmarklet
   - change

@@ -2,6 +2,9 @@
 title: Onion Skinning in Ajax Animator
 author: admin
 date: 2010-03-01 5:06:27
+categories:
+  - Ajax Animator
+  - Google Wave
 tags: 
   - ajax animator
   - animation

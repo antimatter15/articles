@@ -2,6 +2,8 @@
 title: Project Wikify
 author: admin
 date: 2009-07-12 6:26:49
+categories:
+  - Project Wikify
 tags: 
 
 template: article.jade

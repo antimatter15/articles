@@ -2,6 +2,8 @@
 title: The Ambiguity of "Open" and VP8 vs. H.264
 author: admin
 date: 2011-01-13 5:38:27
+categories:
+  - VP8 vs. H.264
 tags: 
   - avc
   - constitution

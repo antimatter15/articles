@@ -2,6 +2,8 @@
 title: Tip Of The Day
 author: admin
 date: 2008-07-28 7:19:38
+categories:
+  - Ajax Animator
 tags: 
   - tips
 template: article.jade

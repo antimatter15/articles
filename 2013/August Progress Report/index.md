@@ -2,6 +2,8 @@
 title: August Progress Report
 author: admin
 date: 2013-08-31 11:25:37
+categories:
+  - Meta
 tags: 
   - blogging
   - charity

@@ -2,6 +2,8 @@
 title: 0.21 Bugfixes
 author: admin
 date: 2008-08-04 1:23:04
+categories:
+  - Ajax Animator
 tags: 
   - bugfix
   - javafx

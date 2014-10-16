@@ -2,6 +2,8 @@
 title: Keyboard Shortcuts!
 author: admin
 date: 2008-07-03 11:31:08
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

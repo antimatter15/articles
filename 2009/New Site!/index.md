@@ -2,6 +2,8 @@
 title: New Site!
 author: admin
 date: 2009-07-14 1:15:00
+categories:
+  - Meta
 tags: 
   - dreamhost
   - hosting

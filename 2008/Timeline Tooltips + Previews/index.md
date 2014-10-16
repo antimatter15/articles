@@ -2,6 +2,8 @@
 title: Timeline Tooltips + Previews
 author: admin
 date: 2008-07-16 9:59:17
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

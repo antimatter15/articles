@@ -2,6 +2,8 @@
 title: Ajax Animator 0.20.01 Soon
 author: admin
 date: 2008-08-05 11:52:11
+categories:
+  - Ajax Animator
 tags: 
   - bugfix
   - internet exploder

@@ -2,6 +2,8 @@
 title: wave URI Scheme
 author: admin
 date: 2009-10-10 3:50:32
+categories:
+  - Google Wave
 tags: 
 
 template: article.jade

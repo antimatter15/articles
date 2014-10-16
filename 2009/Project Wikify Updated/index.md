@@ -2,6 +2,8 @@
 title: Project Wikify Updated
 author: admin
 date: 2009-12-28 8:22:03
+categories:
+  - Project Wikify
 tags: 
   - finally
   - old

@@ -2,6 +2,8 @@
 title: Talk to the bot!
 author: admin
 date: 2009-09-02 1:28:42
+categories:
+  - Uncategorized
 tags: 
 
 template: article.jade

@@ -2,6 +2,8 @@
 title: The Chrome Webstore is Broken
 author: admin
 date: 2011-03-07 3:22:31
+categories:
+  - Chrome Extensions
 tags: 
 
 template: article.jade

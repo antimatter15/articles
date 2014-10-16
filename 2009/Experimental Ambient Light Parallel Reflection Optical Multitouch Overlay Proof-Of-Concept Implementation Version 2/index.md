@@ -2,6 +2,8 @@
 title: Experimental Ambient Light Parallel Reflection Optical Multitouch Overlay Proof-Of-Concept Implementation Version 2
 author: admin
 date: 2009-03-22 9:49:55
+categories:
+  - MirrorTouch
 tags: 
   - .net
   - light

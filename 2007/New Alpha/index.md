@@ -2,6 +2,8 @@
 title: New Alpha
 author: admin
 date: 2007-05-25 1:51:46
+categories:
+  - Ajax Animator
 tags: 
   - alpha
   - crash

@@ -2,6 +2,8 @@
 title: IE works in development version
 author: admin
 date: 2008-08-06 12:46:57
+categories:
+  - Ajax Animator
 tags: 
   - internet exploder
 template: article.jade

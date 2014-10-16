@@ -2,6 +2,8 @@
 title: Plugin Support
 author: admin
 date: 2008-07-06 2:37:40
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

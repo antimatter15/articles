@@ -2,6 +2,8 @@
 title: Fixed Insert-Frame
 author: admin
 date: 2008-06-27 10:41:11
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

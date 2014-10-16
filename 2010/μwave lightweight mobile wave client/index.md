@@ -2,6 +2,9 @@
 title: μwave lightweight mobile wave client
 author: admin
 date: 2010-05-29 10:08:40
+categories:
+  - Google Wave
+  - Microwave
 tags: 
   - google
   - google wave

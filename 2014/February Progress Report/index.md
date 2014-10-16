@@ -2,6 +2,8 @@
 title: February Progress Report
 author: admin
 date: 2014-02-28 3:10:20
+categories:
+  - Meta
 tags: 
   - amazon
   - content aware fill

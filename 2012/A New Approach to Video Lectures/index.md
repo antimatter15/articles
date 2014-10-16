@@ -2,6 +2,8 @@
 title: A New Approach to Video Lectures
 author: admin
 date: 2012-11-21 4:01:39
+categories:
+  - Vectorized
 tags: 
   - concept
   - interface

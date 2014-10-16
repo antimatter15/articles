@@ -2,6 +2,8 @@
 title: Safari 4 Beta
 author: admin
 date: 2009-03-02 6:23:48
+categories:
+  - Uncategorized
 tags: 
   - safari
   - webkit

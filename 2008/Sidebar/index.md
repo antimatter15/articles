@@ -2,6 +2,8 @@
 title: Sidebar
 author: admin
 date: 2008-05-13 11:25:22
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

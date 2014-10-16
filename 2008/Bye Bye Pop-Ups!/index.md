@@ -2,6 +2,8 @@
 title: Bye Bye Pop-Ups!
 author: admin
 date: 2008-03-24 7:09:29
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

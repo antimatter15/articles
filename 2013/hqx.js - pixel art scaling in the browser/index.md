@@ -2,6 +2,9 @@
 title: hqx.js - pixel art scaling in the browser
 author: admin
 date: 2013-03-31 6:30:05
+categories:
+  - Design
+  - Multimedia Codecs
 tags: 
   - bicubic
   - bilinear

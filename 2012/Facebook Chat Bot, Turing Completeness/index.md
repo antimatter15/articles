@@ -2,6 +2,8 @@
 title: Facebook Chat Bot, Turing Completeness
 author: admin
 date: 2012-12-31 2:12:07
+categories:
+  - Facebook Bot
 tags: 
   - automation
   - bot

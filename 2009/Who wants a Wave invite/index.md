@@ -2,6 +2,8 @@
 title: Who wants a Wave invite?
 author: admin
 date: 2009-11-13 10:19:27
+categories:
+  - Google Wave
 tags: 
 
 template: article.jade

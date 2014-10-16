@@ -2,6 +2,8 @@
 title: Relocated Icons
 author: admin
 date: 2008-06-16 8:30:14
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

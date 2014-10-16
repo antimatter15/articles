@@ -2,6 +2,8 @@
 title: I made a mistake
 author: admin
 date: 2008-01-04 6:03:52
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

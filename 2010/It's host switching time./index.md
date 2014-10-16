@@ -2,6 +2,8 @@
 title: It's host switching time.
 author: admin
 date: 2010-06-29 10:57:40
+categories:
+  - Meta
 tags: 
   - change
   - cry

@@ -2,6 +2,8 @@
 title: Subversion working!
 author: admin
 date: 2008-06-18 5:05:28
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

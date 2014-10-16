@@ -2,6 +2,8 @@
 title: Why my Streamie fork is better than everyone else’s
 author: admin
 date: 2010-09-01 6:44:53
+categories:
+  - Streamie
 tags: 
   - node
   - streamie

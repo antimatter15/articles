@@ -2,6 +2,8 @@
 title: New Save Format
 author: admin
 date: 2008-04-26 7:16:54
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

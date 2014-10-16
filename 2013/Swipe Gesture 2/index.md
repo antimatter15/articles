@@ -2,6 +2,9 @@
 title: Swipe Gesture 2
 author: admin
 date: 2013-02-08 10:20:15
+categories:
+  - Chrome Extensions
+  - Swipe Gesture
 tags: 
   - apple
   - bootcamp

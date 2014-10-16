@@ -2,6 +2,8 @@
 title: IE Support Progress
 author: admin
 date: 2008-01-24 6:06:51
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

@@ -2,6 +2,10 @@
 title: VectorEditor on Wave
 author: admin
 date: 2009-08-12 7:00:28
+categories:
+  - Ajax Animator
+  - Google Wave
+  - VectorEditor
 tags: 
   - google
   - google wave

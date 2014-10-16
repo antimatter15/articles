@@ -2,6 +2,8 @@
 title: Why no demos?
 author: admin
 date: 2008-08-06 8:31:50
+categories:
+  - Ajax Animator
 tags: 
   - demo
   - draw

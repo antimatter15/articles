@@ -2,6 +2,8 @@
 title: Chrome Extension Desktop Search
 author: admin
 date: 2010-08-29 1:15:06
+categories:
+  - Desktop Search
 tags: 
   - chrome extension
   - experimental

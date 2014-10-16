@@ -2,6 +2,8 @@
 title: Tweening Improvements + Beginnings of save format
 author: admin
 date: 2008-06-24 9:19:34
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

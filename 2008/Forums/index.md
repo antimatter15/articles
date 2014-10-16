@@ -2,6 +2,8 @@
 title: Forums
 author: admin
 date: 2008-05-10 9:38:10
+categories:
+  - Meta
 tags: 
 
 template: article.jade

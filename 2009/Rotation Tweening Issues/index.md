@@ -2,6 +2,8 @@
 title: Rotation Tweening Issues
 author: admin
 date: 2009-09-20 11:49:57
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

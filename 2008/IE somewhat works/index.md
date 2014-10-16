@@ -2,6 +2,8 @@
 title: IE somewhat works
 author: admin
 date: 2008-07-29 9:23:14
+categories:
+  - Ajax Animator
 tags: 
   - internet exploder
   - vml

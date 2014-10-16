@@ -2,6 +2,8 @@
 title: Deja Vu
 author: admin
 date: 2008-10-20 7:38:32
+categories:
+  - vX JS
 tags: 
   - ajax
   - smaller

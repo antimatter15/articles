@@ -2,6 +2,8 @@
 title: New Feature Delete Frame
 author: admin
 date: 2009-08-21 8:01:51
+categories:
+  - Ajax Animator
 tags: 
 
 template: article.jade

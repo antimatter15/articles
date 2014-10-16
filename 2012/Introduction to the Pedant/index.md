@@ -2,6 +2,8 @@
 title: Introduction to the Pedant
 author: admin
 date: 2012-10-07 8:08:15
+categories:
+  - Pedant
 tags: 
   - ar
   - arduino

@@ -2,6 +2,9 @@
 title: Updates Today
 author: admin
 date: 2008-05-06 7:20:26
+categories:
+  - Ajax Animator
+  - OnlyPaths
 tags: 
   - browser
   - button
