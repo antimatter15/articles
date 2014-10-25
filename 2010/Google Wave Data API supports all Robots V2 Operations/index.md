@@ -17,25 +17,22 @@ As some of you may know (or not), I'm working on a mobile wave client. Actually,
 
 This is taken from ops.py in the official Google Wave Robots API 2.0 (Python version, of course :P)
 
-` `
+	# Operation Types
+	WAVELET_APPEND_BLIP = 'wavelet.appendBlip'
+	WAVELET_SET_TITLE = 'wavelet.setTitle'
+	WAVELET_ADD_PARTICIPANT = 'wavelet.participant.add'
+	WAVELET_DATADOC_SET = 'wavelet.datadoc.set'
+	WAVELET_MODIFY_TAG = 'wavelet.modifyTag'
+	WAVELET_MODIFY_PARTICIPANT_ROLE = 'wavelet.modifyParticipantRole'
+	BLIP_CREATE_CHILD = 'blip.createChild'
+	BLIP_DELETE = 'blip.delete'
+	DOCUMENT_APPEND_MARKUP = 'document.appendMarkup'
+	DOCUMENT_INLINE_BLIP_INSERT = 'document.inlineBlip.insert'
+	DOCUMENT_MODIFY = 'document.modify'
+	ROBOT_CREATE_WAVELET = 'robot.createWavelet'
+	ROBOT_FETCH_WAVE = 'robot.fetchWave'
+	ROBOT_NOTIFY_CAPABILITIES_HASH = 'robot.notifyCapabilitiesHash'`
 
-`# Operation Types
-WAVELET_APPEND_BLIP = 'wavelet.appendBlip'
-WAVELET_SET_TITLE = 'wavelet.setTitle'
-WAVELET_ADD_PARTICIPANT = 'wavelet.participant.add'
-WAVELET_DATADOC_SET = 'wavelet.datadoc.set'
-WAVELET_MODIFY_TAG = 'wavelet.modifyTag'
-WAVELET_MODIFY_PARTICIPANT_ROLE = 'wavelet.modifyParticipantRole'
-BLIP_CREATE_CHILD = 'blip.createChild'
-BLIP_DELETE = 'blip.delete'
-DOCUMENT_APPEND_MARKUP = 'document.appendMarkup'
-DOCUMENT_INLINE_BLIP_INSERT = 'document.inlineBlip.insert'
-DOCUMENT_MODIFY = 'document.modify'
-ROBOT_CREATE_WAVELET = 'robot.createWavelet'
-ROBOT_FETCH_WAVE = 'robot.fetchWave'
-ROBOT_NOTIFY_CAPABILITIES_HASH = 'robot.notifyCapabilitiesHash'`
-
-` `
 
 Try running them in the data api and you get the awesome
 

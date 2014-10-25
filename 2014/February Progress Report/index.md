@@ -24,6 +24,7 @@ template: article.jade
 > _Work expands so as to fill the time available for its completion._
 > 
 > — Parkinson's Law
+
 For the past four or so months, I've been working on just one major project. It's rather depressing to think that I built a reasonably impressive initial prototype over the course of about a dozen sleep-deprived hours, and that all I've accomplished since then is minor polish. Technically, there have been at least two rewrites, completely new capabilities and substantially improved technology, but none of that really matters when it comes to describing the project. A project is what it is, at 80% completion, at 95% and 99%.
 
 Second semester at school has started, and that means that Pass/No Record isn't a thing anymore, and everyone else is adjusting their behavior appropriately. Problem is, _I _haven't changed. It turns out that an entire semester of racing toward the bottom is unsustainable when suddenly the floor has been adjusted to above your current position. But the more important point is that it's leaving less time, and in particular, less contiguous time to work on anything.
