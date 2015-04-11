@@ -3,8 +3,12 @@ title: Anony-bot
 author: admin
 date: 2010-06-30 7:23:53
 categories:
-
+  - Microwave
 tags: 
+  - wave
+  - google
+  - microwave
+  - anonymity
 
 template: article.jade
 ---

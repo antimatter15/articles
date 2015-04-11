@@ -19,7 +19,9 @@ tags:
 template: article.jade
 ---
 
-[![](Screenshot2.png "Screenshot")](Screenshot2.png) I'll take the liberties of plagarizing this as who wouldn't recognize its source?
+[![](Screenshot2.png "Screenshot")](Screenshot2.png) 
+
+I'll take the liberties of plagarizing this as who wouldn't recognize its source?
 
 So I'm moving the small totally unknown and 1-2 file things that I've spammed Google Code with previously. Small things like js-xdb, mental-interpreter, js-tpl-engine, js-xdomain, subleq2, vxjs-ajax (a whole project for a single function? crazy stuff).
 

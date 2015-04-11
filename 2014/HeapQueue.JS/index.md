@@ -16,7 +16,9 @@ tags:
 template: article.jade
 ---
 
-[![heap](heap-300x222.png)](heap.png)I have a [habit](https://github.com/antimatter15/ocrad.js) of writing blog posts in [Sublime Text](http://www.sublimetext.com/3) in lieu of legitimate READMEs. This [project](https://github.com/antimatter15/heapqueue.js) was simple and short enough that I think I did manage to write something with a passable semblance to a[ functional README](https://github.com/antimatter15/heapqueue.js/blob/master/README.md) before initiating this quest to craft a blog post.
+[![heap](heap-300x222.png)](heap.png)
+
+I have a [habit](https://github.com/antimatter15/ocrad.js) of writing blog posts in [Sublime Text](http://www.sublimetext.com/3) in lieu of legitimate READMEs. This [project](https://github.com/antimatter15/heapqueue.js) was simple and short enough that I think I did manage to write something with a passable semblance to a[ functional README](https://github.com/antimatter15/heapqueue.js/blob/master/README.md) before initiating this quest to craft a blog post.
 
 This is hardly a project that I'd expect to go down in the annals of my blog as particularly interesting or notable. Instead, it's a rather boring low-level [computer sciencey thingy](http://en.wikipedia.org/wiki/Heap_(data_structure)) who would feel perfectly comfortable amidst homework assignments.
 

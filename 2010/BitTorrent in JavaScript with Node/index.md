@@ -3,8 +3,8 @@ title: BitTorrent in JavaScript with Node
 author: admin
 date: 2010-08-29 1:26:21
 categories:
-  - P2P
-tags: 
+  - BitTorrent
+tags:
   - bittorrent
   - javascript
   - node.js

@@ -3,8 +3,8 @@ title: DOM Indexer JS Compression
 author: admin
 date: 2010-08-05 11:20:40
 categories:
-  - Uncategorized
-tags: 
+  - JS Compression
+tags:
   - compression
   - javascript
 template: article.jade

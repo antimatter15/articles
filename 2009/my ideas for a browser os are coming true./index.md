@@ -2,7 +2,9 @@
 title: my ideas for a browser os are coming true.
 author: admin
 date: 2009-10-08 3:33:55
-tags: 
+categories:
+  - Design
+tags:
   - brower
   - chrome os
   - idea

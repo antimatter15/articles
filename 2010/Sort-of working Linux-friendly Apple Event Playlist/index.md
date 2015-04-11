@@ -3,7 +3,7 @@ title: Sort-of working Linux-friendly Apple Event Playlist
 author: admin
 date: 2010-09-01 1:31:13
 categories:
-  - Uncategorized
+  - Web Experiments
 tags: 
   - apple
   - keynote

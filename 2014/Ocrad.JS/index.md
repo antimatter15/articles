@@ -4,6 +4,7 @@ author: admin
 date: 2014-06-01 3:35:01
 categories:
   - Project Naptha
+  - Ocrad.js
 
 tags: 
   - optical character recognition

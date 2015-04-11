@@ -3,8 +3,8 @@ title: Google Chrome
 author: admin
 date: 2008-09-02 3:33:20
 categories:
-  - Uncategorized
-tags: 
+  - Software
+tags:
   - browser
   - chrome
   - google

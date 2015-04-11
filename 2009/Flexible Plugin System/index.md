@@ -3,8 +3,8 @@ title: Flexible Plugin System
 author: admin
 date: 2009-01-15 11:28:18
 categories:
-  - Uncategorized
-tags: 
+  - SnowCMS
+tags:
   - CMS
   - mod
   - plugin

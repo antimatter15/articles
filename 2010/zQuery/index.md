@@ -15,9 +15,9 @@ This project uses defineGetter/Object.defineProperty to make a jQuery-style (but
 
 Example:
 
-$('#magic a').className += ' link';
-$('body').find('a').innerHTML
-$('body').textContent += 'blah' //works on firefox too!
+	$('#magic a').className += ' link';
+	$('body').find('a').innerHTML
+	$('body').textContent += 'blah' //works on firefox too!
 
 BTW:
 This library is totally untested

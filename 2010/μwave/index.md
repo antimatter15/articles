@@ -3,9 +3,12 @@ title: μwave
 author: admin
 date: 2010-06-30 7:20:53
 categories:
+  - Microwave
+  - Google Wave
 
 tags: 
-
+  - google
+  - wave
 template: article.jade
 ---
 

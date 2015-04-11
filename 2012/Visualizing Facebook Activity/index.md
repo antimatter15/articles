@@ -3,8 +3,8 @@ title: Visualizing Facebook Activity
 author: admin
 date: 2012-05-29 8:31:48
 categories:
-  - Data
-  - Facebook Visualization
+  - Facebook Clock
+  - Visualization
 tags: 
   - api
   - cron

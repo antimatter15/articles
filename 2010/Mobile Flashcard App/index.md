@@ -3,7 +3,7 @@ title: Mobile Flashcard App
 author: admin
 date: 2010-06-12 8:39:03
 categories:
-  - Uncategorized
+  - Mobile Flashcard
 tags: 
 
 template: article.jade

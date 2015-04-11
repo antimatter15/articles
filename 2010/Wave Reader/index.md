@@ -3,8 +3,14 @@ title: Wave Reader
 author: admin
 date: 2010-06-30 7:20:09
 categories:
+  - Wave Reader
 
 tags: 
+  - wave
+  - google
+  - google wave
+  - microwave
+  - muwave
 
 template: article.jade
 ---

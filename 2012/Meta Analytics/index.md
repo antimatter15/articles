@@ -3,7 +3,7 @@ title: Meta Analytics
 author: admin
 date: 2012-08-17 8:08:30
 categories:
-  - Data
+  - Visualization
   - Meta
 tags: 
   - aliens

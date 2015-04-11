@@ -3,8 +3,8 @@ title: Aptana Studio
 author: admin
 date: 2008-07-08 6:37:32
 categories:
-  - Uncategorized
-tags: 
+  - Software
+tags:
 
 template: article.jade
 ---

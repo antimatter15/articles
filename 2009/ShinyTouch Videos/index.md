@@ -3,7 +3,6 @@ title: ShinyTouch Videos
 author: admin
 date: 2009-08-26 12:46:29
 categories:
-  - Google Wave
   - ShinyTouch
   - Touchscreens
 tags: 

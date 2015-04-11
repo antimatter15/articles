@@ -21,6 +21,78 @@ I'm taking liberties with the [concept of zooming user interfaces](http://en.wik
 
 It uses html5's popState and pushState to get the URL to change without reloading the page (which, btw people should use instead of the weird /#/ urls). It uses webkit transformations, which probably aren't part of CSS3 since it's vendor specific, but I haven't had time to hack it to work on firefox, [feel free to fork](http://github.com/antimatter15/zui/blob/master/zui.js).
 
-		javascript:(function(){var scale=1,tx=innerWidth/2,ty=innerHeight/2,sx=innerWidth/2,sy=innerHeight/2;document.onmousewheel=function(a){if(a.wheelDelta){if(a.wheelDelta&gt;0)scale*=a.wheelDelta/100;if(a.wheelDelta&lt;0)scale/=-a.wheelDelta/100}scale&lt;0.05&amp;&amp;history.go(-1);showTransform();a.preventDefault()};window.onpopstate=function(a){loadPage(a.state.url)}; function showTransform(){document.body.style.webkitTransform=&quot;scale(&quot;+scale+&quot;) translate(&quot;+(innerWidth/2-tx)+&quot;px,&quot;+(innerHeight/2-ty)+&quot;px)&quot;;var a=document.elementFromPoint(innerWidth/2,innerHeight/2);if(a.nodeName==&quot;A&quot;&amp;&amp;a.offsetWidth*scale&gt;0.3*innerWidth&amp;&amp;a.offsetHeight*scale&gt;0.3*innerHeight){console.log(&quot;clicky&quot;);loadPage(a.href);history.pushState({url:a.href},a.href,a.href)}} function loadPage(a){var b=new XMLHttpRequest;b.open(&quot;get&quot;,a,true);b.onload=function(){document.body.innerHTML=b.responseText;showTransform()};b.send(null);scale=1;tx=innerWidth/2;ty=innerHeight/2;sx=innerWidth/2;sy=innerHeight/2;showTransform()}var dragging=false;document.onmousemove=function(a){if(dragging){tx+=(sx-a.pageX)/scale;ty+=(sy-a.pageY)/scale;sx=a.pageX;sy=a.pageY;showTransform();a.preventDefault();a.stopPropagation()}}; document.onmousedown=function(a){dragging=true;sx=a.pageX;sy=a.pageY;a.preventDefault()};document.onclick=function(a){a.preventDefault()};document.onmouseup=function(a){dragging=false;a.preventDefault()};})())
+	javascript:(function(){var scale=1,tx=innerWidth/2,ty=innerHeight/2,sx=innerWidth/2,sy=innerHeight/2;document.onmousewheel=function(a){if(a.wheelDelta){if(a.wheelDelta>0)scale*=a.wheelDelta/1000;if(a.wheelDelta<0)scale/=-a.wheelDelta/1000}scale<0.05&&history.go(-1);showTransform();a.preventDefault()};window.onpopstate=function(a){loadPage(a.state.url)}; function showTransform(){document.body.style.webkitTransform="scale("+scale+") translate("+(innerWidth/2-tx)+"px,"+(innerHeight/2-ty)+"px)";var a=document.elementFromPoint(innerWidth/2,innerHeight/2);if(a.nodeName=="A"&&a.offsetWidth*scale>0.3*innerWidth&&a.offsetHeight*scale>0.3*innerHeight){console.log("clicky");loadPage(a.href);history.pushState({url:a.href},a.href,a.href)}} function loadPage(a){var b=new XMLHttpRequest;b.open("get",a,true);b.onload=function(){document.body.innerHTML=b.responseText;showTransform()};b.send(null);scale=1;tx=innerWidth/2;ty=innerHeight/2;sx=innerWidth/2;sy=innerHeight/2;showTransform()}var dragging=false;document.onmousemove=function(a){if(dragging){tx+=(sx-a.pageX)/scale;ty+=(sy-a.pageY)/scale;sx=a.pageX;sy=a.pageY;showTransform();a.preventDefault();a.stopPropagation()}}; document.onmousedown=function(a){dragging=true;sx=a.pageX;sy=a.pageY;a.preventDefault()};document.onclick=function(a){a.preventDefault()};document.onmouseup=function(a){dragging=false;a.preventDefault()};})()
 
 So that's a bookmarklet. feel free to click it on this site and it'll get rid of the infinite scrolling and for some reason it doesn't work well on this site. Try it on wikipedia.
+
+
+	(function(){
+		var scale=1,
+			tx=innerWidth/2,
+			ty=innerHeight/2,
+			sx=innerWidth/2,
+			sy=innerHeight/2,
+			mx=innerWidth/2,
+			my=innerHeight/2,
+
+		document.onmousewheel=function(a){
+			console.log(a.wheelDelta, scale)
+			scale = Math.exp(Math.log(scale) + a.wheelDelta / 200)
+			if(scale<0.05) history.go(-1);
+			showTransform();
+			a.preventDefault()
+		};
+		window.onpopstate=function(a){
+			loadPage(a.state.url)
+		};
+		function showTransform(){
+			document.body.style.webkitTransform="scale("+scale+") translate("+(mx-tx)+"px,"+(my-ty)+"px)";
+			var a=document.elementFromPoint(innerWidth/2,innerHeight/2);
+			if(a.nodeName=="A"&&a.offsetWidth*scale>0.3*innerWidth&&a.offsetHeight*scale>0.3*innerHeight){
+				console.log("clicky");
+				loadPage(a.href);
+				history.pushState({url:a.href},a.href,a.href)
+			}
+		} 
+		function loadPage(a){
+			var b=new XMLHttpRequest;
+			b.open("get",a,true);
+			b.onload=function(){
+				document.body.innerHTML=b.responseText;
+				showTransform()
+			};
+			b.send(null);
+			scale=1;
+			tx=innerWidth/2;
+			ty=innerHeight/2;
+			sx=innerWidth/2;
+			sy=innerHeight/2;
+			showTransform()
+		}
+		var dragging=false;
+		document.onmousemove=function(a){
+			
+			if(dragging){
+				tx+=(sx-a.pageX)/scale;
+				ty+=(sy-a.pageY)/scale;
+				sx=a.pageX;
+				sy=a.pageY;
+				showTransform();
+				a.preventDefault();
+				a.stopPropagation()
+			}
+		}; 
+		document.onmousedown=function(a){
+			dragging=true;
+			sx=a.pageX;
+			sy=a.pageY;
+			a.preventDefault()
+		};
+		document.onclick=function(a){
+			a.preventDefault()
+		};
+		document.onmouseup=function(a){
+			dragging=false;
+			a.preventDefault()
+		};
+	})()

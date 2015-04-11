@@ -3,8 +3,8 @@ title: JS vs Python
 author: admin
 date: 2009-08-27 4:01:36
 categories:
-  - Uncategorized
-tags: 
+  - Web Experiments
+tags:
   - chrome
   - fast
   - google

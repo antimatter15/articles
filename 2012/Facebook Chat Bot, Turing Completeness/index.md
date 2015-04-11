@@ -4,7 +4,8 @@ author: admin
 date: 2012-12-31 2:12:07
 categories:
   - Facebook Bot
-tags: 
+  - Turing Tarpit
+tags:
   - automation
   - bot
   - chat
@@ -31,7 +32,9 @@ tags:
 template: article.jade
 ---
 
-[![](collatz-2.png)](collatz-2.png)Okay, so I really want to maintain at least [one blog post per month](http://antimatter15.com/wp/2012/08/upcoming-changes/), and here I am, right before New Year's with no apocalypse in sight to rapture me away from having to write a blog post. I don't have anything particularly interesting ready to share, so here's something fun that only took a few hours.
+[![](collatz-2.png)](collatz-2.png)
+
+Okay, so I really want to maintain at least [one blog post per month](http://antimatter15.com/wp/2012/08/upcoming-changes/), and here I am, right before New Year's with no apocalypse in sight to rapture me away from having to write a blog post. I don't have anything particularly interesting ready to share, so here's something fun that only took a few hours.
 
 The rather long [Bayeux tapestry](http://en.wikipedia.org/wiki/Bayeux_Tapestry) of an image I have crammed to the right marks the culmination of a series of rather odd tangents. It also serves as a reminder for me to [abandon hope](http://en.wikipedia.org/wiki/Inferno_(Dante)#Overview_and_vestibule_of_Hell), because the shape of the conversation forces whatever post I plan on writing to be verbose enough as to fill all that vertical space so that the actual text here isn't dwarfed by the image, which would be aesthetically jarring.
 

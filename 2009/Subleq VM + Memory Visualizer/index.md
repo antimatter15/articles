@@ -3,8 +3,8 @@ title: Subleq VM + Memory Visualizer
 author: admin
 date: 2009-03-18 10:48:58
 categories:
-  - Uncategorized
-tags: 
+  - Turing Tarpit
+tags:
   - colors
   - memory
   - subleq

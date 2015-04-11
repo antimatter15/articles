@@ -3,8 +3,8 @@ title: Multiprecision Scrollbar
 author: admin
 date: 2010-11-10 8:48:32
 categories:
-  - Uncategorized
-tags: 
+  - Design
+tags:
 
 template: article.jade
 ---

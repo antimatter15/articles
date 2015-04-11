@@ -2,6 +2,7 @@
 title: X-No-Wiretap
 author: admin
 date: 2013-09-07 1:34:20
+featured: true
 categories:
   - Security
 tags: 
@@ -21,9 +22,11 @@ tags:
 template: article.jade
 ---
 
-Recently, the American public has been [forcefully made aware](http://www.theguardian.com/world/prism) of the existence of various programs by the NSA- including massive infrastructure for intercepting all domestically routed communications to better protect us from imminent foreign threats. With legions of patriotic analysts, the NSA methodically ranks communications on the basis of their "[foreignness](http://www.slate.com/blogs/future_tense/2013/06/06/nsa_prism_surveillance_private_data_from_google_microsoft_skype_apple_yahoo.html)" factor to determine candidacy for prolonged retention. Although it was developed with the best interests of the American people at heart, this program [unwittingly](http://www.washingtonpost.com/blogs/fact-checker/post/james-clappers-least-untruthful-statement-to-the-senate/2013/06/11/e50677a8-d2d8-11e2-a73e-826d299ff459_blog.html) ensnares communications of purely domestic nature on the order of tens of thousands of incidents per day. <span style="font-size: 13px;">These innocent mistakes are putting the agency at a great risk because the 4th Amendment of the Constitution expressly prohibits such affronts to American privacy. </span>Making determinations of foreignness is hard, but to prevent further inconvenience to the American way of life, we should take these leaks as an opportunity for us on the civilian front to aid the NSA by voluntarily indicating citizenship on all our networked communications.
+Recently, the American public has been [forcefully made aware](http://www.theguardian.com/world/prism) of the existence of various programs by the NSA- including massive infrastructure for intercepting all domestically routed communications to better protect us from imminent foreign threats. With legions of patriotic analysts, the NSA methodically ranks communications on the basis of their "[foreignness](http://www.slate.com/blogs/future_tense/2013/06/06/nsa_prism_surveillance_private_data_from_google_microsoft_skype_apple_yahoo.html)" factor to determine candidacy for prolonged retention. Although it was developed with the best interests of the American people at heart, this program [unwittingly](http://www.washingtonpost.com/blogs/fact-checker/post/james-clappers-least-untruthful-statement-to-the-senate/2013/06/11/e50677a8-d2d8-11e2-a73e-826d299ff459_blog.html) ensnares communications of purely domestic nature on the order of tens of thousands of incidents per day. These innocent mistakes are putting the agency at a great risk because the 4th Amendment of the Constitution expressly prohibits such affronts to American privacy. Making determinations of foreignness is hard, but to prevent further inconvenience to the American way of life, we should take these leaks as an opportunity for us on the civilian front to aid the NSA by voluntarily indicating citizenship on all our networked communications.
 
 Here, we define the syntax and semantics of X-No-Wiretap, a HTTP header-based mechanism for indicating and proving citizenship to well-intentioned man-in-the-middle parties. It is inspired by the enormously successful [RFC 3514](http://tools.ietf.org/html/rfc3514) IPv4 Security Flag and HTTP [DNT header](http://tools.ietf.org/html/draft-mayer-do-not-track-00).
+
+<span class="more"></span>
 
 ## Syntax
 

@@ -3,7 +3,7 @@ title: The Social Operating System
 author: admin
 date: 2011-10-03 8:03:02
 categories:
-  - Uncategorized
+  - Design
 tags: 
 
 template: article.jade

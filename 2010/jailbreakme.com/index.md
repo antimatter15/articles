@@ -3,8 +3,8 @@ title: jailbreakme.com
 author: admin
 date: 2010-08-01 8:27:24
 categories:
-  - Uncategorized
-tags: 
+  - Blog
+tags:
   - apple
   - iphone
   - jailbreak

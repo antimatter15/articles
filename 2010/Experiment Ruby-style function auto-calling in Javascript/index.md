@@ -2,7 +2,9 @@
 title: Experiment Ruby-style function auto-calling in Javascript
 author: admin
 date: 2010-07-22 1:21:26
-tags: 
+categories:
+  - Web Experiments
+tags:
   - automatic calling
   - function
   - ruby
@@ -11,7 +13,7 @@ template: article.jade
 
 I have no clue what it's called when ruby automatically runs a function.
 After not totally understanding [def.js](http://github.com/tobeytailor/def.js) and looking at this [coffee-script issu](http://github.com/jashkenas/coffee-script/issues/514)e from the [cappuccino github issues browser](http://githubissues.heroku.com/#jashkenas/coffee-script/514). I had a horrible idea.
-	
+
 	Function.prototype.valueOf = function(){return this()}
 
 

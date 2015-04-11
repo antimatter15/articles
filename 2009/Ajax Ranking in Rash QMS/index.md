@@ -2,7 +2,9 @@
 title: Ajax Ranking in Rash QMS
 author: admin
 date: 2009-06-20 3:10:04
-tags: 
+categories:
+  - Omeglebot
+tags:
   - ajax
   - bash
   - rash
@@ -22,13 +24,13 @@ Replace lines 151, 152 and 153 with the following lines (respectively) in rash_o
 
 
 Then add the following somewhere arbitrary in the <head> of rash_template.php
-	
+
 	<script type="text/javascript">
 	var _=_?_:{}
 	_.ajax=_.X=function(u,f,d,x){x=window.ActiveXObject;x=new(x?x:XMLHttpRequest)('Microsoft.XMLHTTP');x.open(d?'POST':'GET',u,1);x.setRequestHeader('Content-type','application/x-www-form-urlencoded');x.onreadystatechange=function(){x.readyState>3&amp;&amp;f?f(x.responseText,x):0};x.send(d)}
 	_.id=_.G=function(e){return e.style?e:_.d.getElementById(e)}
 	_.d=document
-	
+
 	function plus(ID){
 		_.ajax("?ratingplus&amp;id="+ID, function(){
 			_.G("rating"+ID).innerHTML = parseInt(_.G("rating"+ID).innerHTML)+1
