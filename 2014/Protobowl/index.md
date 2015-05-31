@@ -26,6 +26,7 @@ tags:
   - opencv
   - experiment
   - simple
+  - retrospective
 
 template: article.jade
 ---

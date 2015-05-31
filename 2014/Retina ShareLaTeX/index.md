@@ -20,6 +20,7 @@ tags:
   - open source
   - contribute
   - pull request
+  - retrospective
 
 template: article.jade
 ---

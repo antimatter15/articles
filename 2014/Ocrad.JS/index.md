@@ -24,6 +24,7 @@ tags:
   - gocr
   - ocrad
   - draft
+  - retrospective
 
 template: article.jade
 ---

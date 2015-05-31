@@ -36,6 +36,14 @@ Most importantly though, it's now a hip static site hosted on Github Pages (thou
 
 ### Getting Hacked
 
+[![300px, right](paypal.png "I unwittingly invited some consultants work on the new blog design, but all they could come up with was clearly somewhat unoriginal...")](/2014/06/blog-hacked/)
+
+I don't generally pay a lot of attention to this blog— especially during the beginning of every month. I used to generally hold myself to a rule that I would post something new at least once a month, but that policy kept slipping and then there was a mad dash to finish some blog post the first or second day of each new month to be retroactively timestamped. 
+
+Anyway, point is that I didn't notice when the site got hacked for a few days. Unfortunately I don't have any screenshots of what the site looked like when it was hacked. And at this point I can't promise you that my mental model of what it looked like is anything more than a hallucination. 
+
+It's a bit of an interesting chapter in my blog's history, so I've spun off this section [into its own post](/2014/06/blog-hacked/).
+
 
 
 ### First Sketches
@@ -64,6 +72,12 @@ So in terms of a projects list, this means that I can introduce a bit of an aest
 
 Naturally, all the project descriptions are hyperlinked and lead to a project page which includes all the blog posts documenting the process of creating that particular project. 
 
+### New Tools
+
+At some point I helped design a mobile app and ended up getting reasonably familiar with Adobe Illustrator. 
+
+
+It was also at this time that I started using tools that designers use— things like [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) and [Bohemian Coding's Sketch](http://bohemiancoding.com/sketch/). 
 
 
 

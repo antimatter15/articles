@@ -11,13 +11,21 @@ tags:
   - blog
   - reboot
   - meta
-  - stuff
-  - design
-  - procrastination
-  - wait
-  - delay
-  - progress
-  - slow
+  - hacked
+  - php
+  - wordpress
+  - security
+  - webshell
+  - shell
+  - exploit
+  - vulnerability
+  - shared hosting
+  - traffic
+  - phishing
+  - bandwidth
+  - madShell
+  - injection
+  - retrospective
 
 template: article.jade
 ---
@@ -299,10 +307,25 @@ And finally `tumdizin` seems to link to the web roots of 116 distinct shared hos
 
 -------------------
 
+There's also that folders which blow up in the tree `x4MslaR1CW`, and `ptRiJiayze`. You can probably guess by files like `logo_paypal_106x29.png` that this site got turned essentially into a phishing website for Paypal. I'm actually rather amazed that the result looks so plausible. 
+
+![](paypal.png)
+
+
+-------------------
+
 However, it seems that there was some weird activity going on starting a few days before the massive traffic. There's an `error_log` file which seems to grow pretty slowly in general. There was a fairly large stretch from January to June with no errors— and then it seemed to constantly encounter these errors leading up to the traffic spike. 
 
     [03-Jun-2014 17:06:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/antimatt/public_html/wp/wp-rss.php(1) : eval()'d code:1) in /home/antimatt/public_html/wp/wp-includes/pluggable.php on line 1121
     [04-Jun-2014 19:31:54 UTC] PHP Warning:  include(images/settings.php): failed to open stream: No such file or directory in /home/antimatt/public_html/wp/wp-content/themes/carrington-woot/footer.php on line 24
     [04-Jun-2014 19:31:54 UTC] PHP Warning:  include(images/settings.php): failed to open stream: No such file or directory in /home/antimatt/public_html/wp/wp-content/themes/carrington-woot/footer.php on line 24
+
+-------------------
+
+
+I ended up downloading a daily backup of the server which was taken before it was hacked (June 1, 2014) and installing it onto a small virtual machine. I downloaded a Wordpress plugin for exporting the entire website as static HTML pages and uploaded it to Github pages. This served as a stop-gap measure for almost an entire year while I was getting the new site to work.
+
+This experience is largely why I decided that this new incarnation would be a static site— essentially free from the perils that come with a dynamic website. It's not like the old version used dynamic content to much advantage anyway, it was cached enough that it was practically static anyway. 
+
 
 

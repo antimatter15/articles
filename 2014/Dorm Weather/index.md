@@ -24,6 +24,7 @@ tags:
   - 6.1
   - wow such electrons
   - draft
+  - retrospective
 
 template: article.jade
 ---

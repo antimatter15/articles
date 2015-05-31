@@ -22,6 +22,7 @@ tags:
   - hamming distance
   - metrics
   - draft
+  - retrospective
 
 template: article.jade
 ---

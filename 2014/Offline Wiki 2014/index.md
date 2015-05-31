@@ -16,6 +16,8 @@ tags:
   - old
   - content
   - draft
+  - retrospective
+  
 template: article.jade
 ---
 

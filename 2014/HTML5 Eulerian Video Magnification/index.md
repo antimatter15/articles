@@ -10,6 +10,7 @@ categories:
 tags:
   - magnification
   - draft
+  - retrospective
 
 template: article.jade
 ---
