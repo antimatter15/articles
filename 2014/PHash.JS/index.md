@@ -21,6 +21,7 @@ tags:
   - hamming
   - hamming distance
   - metrics
+  - draft
 
 template: article.jade
 ---

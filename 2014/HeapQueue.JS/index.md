@@ -1,9 +1,11 @@
 ---
 title: HeapQueue.JS
+short: HeapQueue.JS
+caption: Simple Javascript Priority Queue
 author: admin
 date: 2014-01-28 12:51:32
 categories:
-  - vX JS
+  - heapqueue
 tags: 
   - doge
   - heap

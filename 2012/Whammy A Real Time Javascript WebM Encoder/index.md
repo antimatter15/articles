@@ -1,5 +1,5 @@
 ---
-title: Whammy A Real Time Javascript WebM Encoder
+title: "Whammy: A Real Time Javascript WebM Encoder"
 author: admin
 date: 2012-08-19 10:46:46
 categories:
@@ -42,15 +42,23 @@ This was actually [Kevin Geng](https://github.com/gengkev)'s idea, and he contri
 
 First, let's include the JS file. It's self contained and basically namespaced, which is pretty good I guess. And it's not too big, minified it's only about 4KB and gzipped, it's under 2KB. That's like really really tiny.
 
-    &lt;script src="whammy.js"&gt;&lt;/script&gt; `</pre>
-    The API isn't terrible either (at least, that's what I'd like to hope)
-    <pre>`var encoder = new Whammy.Video(15); `</pre>
-    That `15` over there is the frame rate. There's a way to set the individual duration of each frame manually, but you can look in the code for that.
-    <pre>`encoder.add(context or canvas or dataURL); `</pre>
-    Here, you can add a frame, this happens fairly quickly because basically all it's doing is running `.toDataURL()` on the canvas (which isn't exactly a speed-demon either, but it's acceptable enough most of the time) and plopping the result onto an array (no computation or anything). The actual encoding only happens when you call `.compile()`
-    <pre>`var output = encoder.compile(); `</pre>
-    Here, output is set to a Blob. In order to get a nice URL which you can use to stick in a `&lt;video&gt;` element, you need to send it over to`createObjectURL`
-    <pre>`var url = (window.webkitURL || window.URL).createObjectURL(output); 
+    <script src="whammy.js"></script>
+
+The API isn't terrible either (at least, that's what I'd like to hope)
+
+    var encoder = new Whammy.Video(15); 
+
+That `15` over there is the frame rate. There's a way to set the individual duration of each frame manually, but you can look in the code for that.
+
+    encoder.add(context or canvas or dataURL); 
+
+Here, you can add a frame, this happens fairly quickly because basically all it's doing is running `.toDataURL()` on the canvas (which isn't exactly a speed-demon either, but it's acceptable enough most of the time) and plopping the result onto an array (no computation or anything). The actual encoding only happens when you call `.compile()`
+
+    var output = encoder.compile(); 
+
+Here, output is set to a Blob. In order to get a nice URL which you can use to stick in a `&lt;video&gt;` element, you need to send it over to`createObjectURL`
+
+    var url = (window.webkitURL || window.URL).createObjectURL(output); 
 
 And you're done. Awesome.
 

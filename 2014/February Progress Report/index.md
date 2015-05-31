@@ -1,5 +1,7 @@
 ---
 title: February Progress Report
+short: February 2014
+caption: Work expands so as to fill the time available for its completion.
 author: admin
 date: 2014-02-28 3:10:20
 categories:

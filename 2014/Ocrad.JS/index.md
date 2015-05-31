@@ -23,6 +23,7 @@ tags:
   - tesseract
   - gocr
   - ocrad
+  - draft
 
 template: article.jade
 ---

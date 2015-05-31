@@ -1,5 +1,6 @@
 ---
 title: Project Naptha
+caption: highlight, copy and translate text in images
 author: admin
 date: 2014-04-24 2:58:34
 categories:
@@ -11,6 +12,18 @@ tags:
   - project naptha
   - tyger
   - wow
+  - blake
+  - william
+  - poetry
+  - poem
+  - art
+  - design
+  - chrome
+  - extension
+  - ocr
+  - text
+  - recognize
+  - universal
 template: article.jade
 ---
 

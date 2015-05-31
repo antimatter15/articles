@@ -32,7 +32,9 @@ I've [tried this before](2009/08/webworkers-canvas-glif-gifencoder-client-side-a
 
 Since it pretty much _is_ GIFEncoder, you could consult the [as3gif how-to page](http://code.google.com/p/as3gif/wiki/How_to_use#The_GIFEncoder)
 
-But there are some differences so I'll cover it here anyway.![This is the GIF which was generated from the canvas.](clock.gif)
+But there are some differences so I'll cover it here anyway.!
+
+[This is the GIF which was generated from the canvas.](clock.gif)
 
 You first need to include the JS files. It's probably best if you include it in this order, but it shouldnt' matter too much.
 

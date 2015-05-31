@@ -15,6 +15,7 @@ tags:
   - school
   - so functional
   - very paradigm
+  - draft
 
 template: article.jade
 ---

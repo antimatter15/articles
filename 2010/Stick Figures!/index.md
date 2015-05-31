@@ -15,7 +15,9 @@ tags:
 template: article.jade
 ---
 
-[![](Screenshot.png "Screenshot")](Screenshot.png) Ubuntu's weird and adding a bar on top of all my screenshots
+[![](Screenshot.png "Screenshot")](Screenshot.png) 
+
+Ubuntu's weird and adding a bar on top of all my screenshots
 
 [http://antimatter15.com/ajaxanimator/VectorEditor/stickfigure.html](http://antimatter15.com/ajaxanimator/VectorEditor/stickfigure.html)
 

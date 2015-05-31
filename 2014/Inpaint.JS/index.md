@@ -14,6 +14,7 @@ tags:
   - filling
   - erasing
   - removal
+  - draft
 
 template: article.jade
 ---

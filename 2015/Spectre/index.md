@@ -19,6 +19,7 @@ tags:
   - security
   - surveillance
   - sousveillance
+  - draft
 
 template: article.jade
 ---

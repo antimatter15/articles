@@ -34,11 +34,15 @@ tags:
 template: article.jade
 ---
 
-[![](Screenshot-6.png "drag2up firefox dragging twitter")](Screenshot-6.png)[![](Selection_004.png "drag2up settings chrome")](Selection_004.png)
+[![](Screenshot-6.png "drag2up firefox dragging twitter")](Screenshot-6.png)
+
+
 
 drag2up was a [browser extension I built a few months ago](2010/10/drag2up-drag-files-onto-any-site/), and recently bumped it up to 2.0\. The basic idea is to use HTML5 File API and the drag/drop integration that **Chrome and Firefox** implements to enable uploads to any website by[ simply dragging and dropping](http://www.youtube.com/watch?v=DBqxmO-ZrDY) the file from your computer onto the respective site. Instead of the trouble of opening a new tab, navigating to your favorite file provider, waiting for it to load, pressing the browse button, navigating to the folder with your image, pressing "Open", then hitting the submit button, waiting for the upload to finish, copy the link, find the original tab among the mess of tabs that fills your tab bar and finally scrolling down, selecting the box and pasting the URL. All to share a three megabyte file. drag2up streamlines the process into a single, swift gesture where you drag the file onto the text entry field. The link is instantly added while the file is being **uploaded in the background**. If someone navigates to the link before it's done uploading, the page uses the Google App Engine Channel API to stream **real time** upload status.
 
 It still has a pretty simple user interface that works with **zero initial setup**. In addition to using gist and imgur for text files and image uploading respectively, it includes many additional services, configurable through a simple drag and drop interface. The new version also sports Firefox support.
+
+[![](Selection_004.png "drag2up settings chrome")](Selection_004.png)
 
 **New Features**
 

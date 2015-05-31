@@ -23,6 +23,7 @@ tags:
   - pretty
   - colors
   - music
+  - draft
 
 template: article.jade
 ---

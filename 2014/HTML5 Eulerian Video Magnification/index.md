@@ -9,6 +9,7 @@ categories:
 
 tags:
   - magnification
+  - draft
 
 template: article.jade
 ---

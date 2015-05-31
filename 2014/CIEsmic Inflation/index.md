@@ -1,6 +1,8 @@
 ---
 title: Perceptual color distance and RGB and L*a*b
+short: CIEsmic Inflation
 author: admin
+hidden: true
 date: 2014-05-31 3:35:01
 categories:
   - Color
@@ -30,7 +32,7 @@ So it turns out that comparing the difference between RGB colors is actually a r
 So I decided to run a series of large scale double-blind (heh) experiments on human perception, analyzing the output with a dizzying array of statistical techniques and— oh wait, no I didn't, because scientists have gotten that all figured out since the late '70s.
 
 
-[![I was doing some experiments with clustering colors, and it turns out that RGB euclidean distance is woefully inadequate, so here](Screenshot-2014-03-23-00.03.39-300x297.png)](Screenshot-2014-03-23-00.03.39.png) 
+[![right, 200px](Screenshot-2014-03-23-00.03.39-300x297.png "I was doing some experiments with clustering colors, and it turns out that RGB euclidean distance is woefully inadequate, so here")](Screenshot-2014-03-23-00.03.39.png) 
 
 
 That group of color scientists, the International Commission on Illumination (CIE, acronyms are a bit weird when [they're international](https://en.wikipedia.org/wiki/Coordinated_Universal_Time), and by international, I mean [French](https://en.wikipedia.org/wiki/International_System_of_Units)), have been working tirelessly since the early 20th century to create increasingly nuanced mathematical models of color perception.

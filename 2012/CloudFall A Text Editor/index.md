@@ -1,5 +1,5 @@
 ---
-title: CloudFall A Text Editor
+title: "CloudFall: A Text Editor"
 author: admin
 date: 2012-07-06 12:20:48
 categories:
@@ -11,7 +11,7 @@ tags:
   - cloudfall
   - coffeescript
   - dropbox
-  - google i&#x2F;o
+  - google io
   - packaged apps
   - sourcekit
   - syntax

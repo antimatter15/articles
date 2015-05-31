@@ -15,6 +15,7 @@ tags:
   - nostalgia
   - old
   - content
+  - draft
 template: article.jade
 ---
 

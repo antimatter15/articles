@@ -1,6 +1,8 @@
 ---
 title: Unwarranted Speculation On Oculus VR
+short: Oculus VR
 author: admin
+hidden: true
 date: 2014-03-30 3:25:05
 categories:
   - 3D

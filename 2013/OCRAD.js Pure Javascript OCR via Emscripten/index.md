@@ -1,5 +1,6 @@
 ---
 title: Ocrad.js Pure Javascript OCR via Emscripten
+short: Ocrad.js
 author: admin
 date: 2013-12-31 11:59:57
 categories:
@@ -19,7 +20,7 @@ tags:
 template: article.jade
 ---
 
-[![doge](doge-300x191.png)](doge.png)
+[![doge](doge.png)](doge.png)
 
 
 As with any minor stepping stone on the road to hell relentless trajectory of 	<link />Atwood's Law, I probably don't need to justify the existence of yet another "x, but now in Javascript!", but I might as well try. After all, we all would like to think that there's some ulterior motive to fulfilling that prophesy.
