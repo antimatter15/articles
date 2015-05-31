@@ -8,6 +8,7 @@ categories:
   - Project Naptha
 
 tags:
+  - draft
   - word lens
   - quest visual
   - google

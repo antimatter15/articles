@@ -7,6 +7,7 @@ date: 2014-4-03 00:47:52
 categories:
   - ShareLaTeX
 tags:
+  - draft
   - latex
   - retina
   - mac
